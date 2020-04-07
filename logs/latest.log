@@ -1,0 +1,45 @@
+[05:53:08] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[05:53:08] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[05:53:09] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:53:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:53:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:53:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[05:53:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[05:53:09] [Server thread/INFO]: Starting minecraft server version 20w14a
+[05:53:09] [Server thread/INFO]: Loading properties
+[05:53:09] [Server thread/INFO]: Default game type: SURVIVAL
+[05:53:09] [Server thread/INFO]: Generating keypair
+[05:53:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:53:10] [Server thread/INFO]: Using epoll channel type
+[05:53:10] [Server thread/INFO]: Preparing level "world"
+[05:53:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[05:54:05] [Server thread/INFO]: Loaded 6 recipes
+[05:54:05] [Server thread/INFO]: Loaded 863 advancements
+[05:54:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:54:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:54:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:54:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:54:08] [Server thread/INFO]: Preparing spawn area: 0%
+[05:54:08] [Server thread/INFO]: Preparing spawn area: 28%
+[05:54:09] [Server thread/INFO]: Time elapsed: 2398 ms
+[05:54:09] [Server thread/INFO]: Done (58.724s)! For help, type "help"
+[05:54:13] [User Authenticator #1/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[05:54:13] [Server thread/INFO]: ThiagoRX[/187.105.43.138:52303] logged in with entity id 240 at (222.69999998807907, 10.0, -36.26088687930796)
+[05:54:13] [Server thread/INFO]: ThiagoRX joined the game
+[06:02:00] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[06:02:00] [Server thread/INFO]: ThiagoRX left the game
+[06:02:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[06:02:05] [Server thread/INFO]: OQstop<--[HERE]
+[06:02:06] [Server thread/INFO]: Stopping the server
+[06:02:06] [Server thread/INFO]: Stopping server
+[06:02:06] [Server thread/INFO]: Saving players
+[06:02:06] [Server thread/INFO]: Saving worlds
+[06:02:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[06:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:02:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[06:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:02:07] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[06:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:02:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
