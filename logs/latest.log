@@ -1,15 +1,15 @@
-[15:59:17] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[15:59:17] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[15:59:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:59:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:59:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:59:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:59:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:59:19] [Server thread/INFO]: Starting minecraft server version 20w14a
-[15:59:19] [Server thread/INFO]: Loading properties
-[15:59:19] [Server thread/INFO]: Default game type: SURVIVAL
-[15:59:19] [Server thread/INFO]: Generating keypair
-[15:59:19] [Server console handler/ERROR]: Exception handling console input
+[19:26:38] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[19:26:39] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[19:26:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:26:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:26:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:26:39] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:26:39] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:26:41] [Server thread/INFO]: Starting minecraft server version 20w14a
+[19:26:41] [Server thread/INFO]: Loading properties
+[19:26:41] [Server thread/INFO]: Default game type: SURVIVAL
+[19:26:41] [Server thread/INFO]: Generating keypair
+[19:26:41] [Server console handler/ERROR]: Exception handling console input
 java.io.IOException: The handle is invalid
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_241]
 	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_241]
@@ -23,298 +23,118 @@ java.io.IOException: The handle is invalid
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
 	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_241]
 	at xk$2.run(SourceFile:111) [server.jar:?]
-[15:59:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:59:20] [Server thread/INFO]: Using default channel type
-[15:59:21] [Server thread/INFO]: Preparing level "world"
-[15:59:21] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:59:22] [Server thread/INFO]: Loaded 6 recipes
-[15:59:22] [Server thread/INFO]: Loaded 863 advancements
-[15:59:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:59:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:59:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:59:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:59:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:59:26] [Server thread/INFO]: Preparing spawn area: 0%
-[15:59:31] [Worker-3/INFO]: Preparing spawn area: 0%
-[15:59:31] [Worker-2/INFO]: Preparing spawn area: 0%
-[15:59:31] [Worker-7/INFO]: Preparing spawn area: 0%
-[15:59:31] [Worker-3/INFO]: Preparing spawn area: 0%
-[15:59:31] [Worker-2/INFO]: Preparing spawn area: 0%
-[15:59:31] [Worker-1/INFO]: Preparing spawn area: 0%
-[15:59:31] [Worker-7/INFO]: Preparing spawn area: 0%
-[15:59:31] [Worker-4/INFO]: Preparing spawn area: 0%
-[15:59:31] [Worker-4/INFO]: Preparing spawn area: 0%
-[15:59:31] [Server thread/INFO]: Preparing spawn area: 2%
-[15:59:32] [Server thread/INFO]: Time elapsed: 7267 ms
-[15:59:32] [Server thread/INFO]: Done (10.995s)! For help, type "help"
-[16:03:26] [User Authenticator #1/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[16:03:26] [Server thread/INFO]: ThiagoRX[/187.105.43.138:50517] logged in with entity id 228 at (214.8833878618974, 14.0, -64.51006283725262)
-[16:03:26] [Server thread/INFO]: ThiagoRX joined the game
-[16:03:28] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[16:03:28] [Server thread/INFO]: ThiagoRX left the game
-[16:04:19] [User Authenticator #2/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[16:04:19] [Server thread/INFO]: ThiagoRX[/187.105.43.138:50568] logged in with entity id 270 at (214.8833878618974, 14.0, -64.51006283725262)
-[16:04:19] [Server thread/INFO]: ThiagoRX joined the game
-[16:04:21] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[16:04:21] [Server thread/INFO]: ThiagoRX left the game
-[16:05:30] [User Authenticator #3/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
-[16:05:30] [Server thread/INFO]: neg0ney[/127.0.0.1:61351] logged in with entity id 280 at (194.5, 63.0, -1.5)
-[16:05:30] [Server thread/INFO]: neg0ney joined the game
-[16:06:07] [Server thread/INFO]: neg0ney was slain by Zombie
-[16:06:13] [User Authenticator #4/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[16:06:14] [Server thread/INFO]: ThiagoRX[/187.105.43.138:50693] logged in with entity id 427 at (214.8833878618974, 14.0, -64.51006283725262)
-[16:06:14] [Server thread/INFO]: ThiagoRX joined the game
-[16:06:14] [Server thread/INFO]: Teleported neg0ney to ThiagoRX
-[16:06:14] [Server thread/WARN]: neg0ney moved too quickly! 31.383387861897404,-49.0,-59.01006283725262
-[16:06:14] [Server thread/WARN]: neg0ney moved too quickly! 31.383387861897404,-49.0,-59.01006283725262
-[16:06:17] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[16:06:17] [Server thread/INFO]: ThiagoRX left the game
-[16:07:09] [User Authenticator #5/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[16:07:09] [Server thread/INFO]: ThiagoRX[/187.105.43.138:50783] logged in with entity id 556 at (214.8833878618974, 14.0, -64.51006283725262)
-[16:07:09] [Server thread/INFO]: ThiagoRX joined the game
-[16:07:11] [Server thread/INFO]: <neg0ney> oi
-[16:09:25] [Server thread/INFO]: neg0ney has made the advancement [Stone Age]
-[16:10:13] [Server thread/INFO]: ThiagoRX was shot by Skeleton
-[16:12:53] [User Authenticator #6/INFO]: UUID of player HelartMp is 30e78d69-16a3-45b2-9842-0dcf1abfa431
-[16:12:53] [Server thread/INFO]: HelartMp[/187.18.220.68:12029] logged in with entity id 1389 at (181.5, 63.0, -9.5)
-[16:12:53] [Server thread/INFO]: HelartMp joined the game
-[16:12:57] [Server thread/INFO]: HelartMp lost connection: Disconnected
-[16:12:57] [Server thread/INFO]: HelartMp left the game
-[16:14:24] [User Authenticator #7/INFO]: UUID of player HelartMp is 30e78d69-16a3-45b2-9842-0dcf1abfa431
-[16:14:24] [Server thread/INFO]: HelartMp[/187.18.220.68:12034] logged in with entity id 1657 at (181.5, 63.0, -9.5)
-[16:14:24] [Server thread/INFO]: HelartMp joined the game
-[16:14:27] [Server thread/INFO]: HelartMp lost connection: Disconnected
-[16:14:27] [Server thread/INFO]: HelartMp left the game
-[16:15:52] [User Authenticator #8/INFO]: UUID of player HelartMp is 30e78d69-16a3-45b2-9842-0dcf1abfa431
-[16:15:52] [Server thread/INFO]: HelartMp[/187.18.220.68:11705] logged in with entity id 1865 at (181.5, 63.0, -9.5)
-[16:15:52] [Server thread/INFO]: HelartMp joined the game
-[16:15:55] [Server thread/INFO]: HelartMp lost connection: Disconnected
-[16:15:55] [Server thread/INFO]: HelartMp left the game
-[16:17:31] [Server thread/INFO]: neg0ney has made the advancement [Isn't It Iron Pick]
-[16:17:48] [Server thread/INFO]: ThiagoRX fell from a high place
-[16:18:12] [User Authenticator #9/INFO]: UUID of player HelartMp is 30e78d69-16a3-45b2-9842-0dcf1abfa431
-[16:18:12] [Server thread/INFO]: HelartMp[/187.18.220.68:11724] logged in with entity id 2247 at (181.5, 63.0, -9.5)
-[16:18:12] [Server thread/INFO]: HelartMp joined the game
-[16:19:12] [Server thread/INFO]: neg0ney fell from a high place
-[16:21:22] [Server thread/INFO]: <ThiagoRX> 206 -43
-[16:21:35] [Server thread/INFO]: <HelartMp> +w
-[16:22:01] [Server thread/INFO]: neg0ney has made the advancement [Sweet Dreams]
-[16:22:22] [Server thread/INFO]: <ThiagoRX> quita
-[16:22:22] [Server thread/INFO]: <ThiagoRX> ai
-[16:22:23] [Server thread/INFO]: <ThiagoRX> gente
-[16:22:24] [Server thread/INFO]: <ThiagoRX> galera
-[16:22:25] [Server thread/INFO]: <ThiagoRX> pore
-[16:22:26] [Server thread/INFO]: neg0ney lost connection: Disconnected
-[16:22:26] [Server thread/INFO]: neg0ney left the game
-[16:22:27] [Server thread/INFO]: HelartMp lost connection: Disconnected
-[16:22:27] [Server thread/INFO]: HelartMp left the game
-[16:22:31] [User Authenticator #10/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
-[16:22:32] [Server thread/INFO]: neg0ney[/127.0.0.1:62602] logged in with entity id 3232 at (218.79356185044315, 65.0, -62.98913580331471)
-[16:22:32] [Server thread/INFO]: neg0ney joined the game
-[16:22:32] [User Authenticator #11/INFO]: UUID of player HelartMp is 30e78d69-16a3-45b2-9842-0dcf1abfa431
-[16:22:32] [Server thread/INFO]: HelartMp[/187.18.220.68:11657] logged in with entity id 3233 at (220.02643983261268, 65.0, -66.04617136057232)
-[16:22:32] [Server thread/INFO]: HelartMp joined the game
-[16:23:45] [Server thread/INFO]: <ThiagoRX> em busca
-[16:24:16] [Server thread/INFO]: HelartMp has made the advancement [A Seedy Place]
-[16:24:19] [Server thread/INFO]: neg0ney has made the advancement [A Seedy Place]
-[16:27:16] [Server thread/INFO]: neg0ney has made the advancement [We Need to Go Deeper]
-[16:30:14] [Server thread/INFO]: ThiagoRX has made the advancement [A Seedy Place]
-[16:30:42] [Server thread/INFO]: HelartMp has made the advancement [The Parrots and the Bats]
-[16:35:47] [Server thread/INFO]: neg0ney has made the advancement [Monster Hunter]
-[16:36:31] [Server thread/INFO]: HelartMp has made the advancement [Sweet Dreams]
-[16:36:58] [Server thread/INFO]: neg0ney has made the advancement [The Parrots and the Bats]
-[16:37:43] [Server thread/INFO]: neg0ney was blown up by Creeper
-[16:38:37] [Server thread/INFO]: ThiagoRX fell from a high place
-[16:41:51] [User Authenticator #12/INFO]: UUID of player arockbet is e2a5531a-c8f8-4890-9fee-d2282fd3a587
-[16:41:51] [Server thread/INFO]: arockbet[/179.156.165.239:50223] logged in with entity id 7575 at (205.10075375696485, 63.0, 1.2898588242449596)
-[16:41:51] [Server thread/INFO]: arockbet joined the game
-[16:41:55] [Server thread/INFO]: arockbet lost connection: Disconnected
-[16:41:55] [Server thread/INFO]: arockbet left the game
-[16:44:14] [User Authenticator #13/INFO]: UUID of player arockbet is e2a5531a-c8f8-4890-9fee-d2282fd3a587
-[16:44:14] [Server thread/INFO]: arockbet[/179.156.165.239:50381] logged in with entity id 8268 at (205.10075375696485, 63.0, 1.2898588242449596)
-[16:44:14] [Server thread/INFO]: arockbet joined the game
-[16:47:13] [Server thread/INFO]: arockbet has made the advancement [A Seedy Place]
-[16:47:38] [Server thread/INFO]: arockbet has made the advancement [Sweet Dreams]
-[16:50:01] [Server thread/INFO]: arockbet lost connection: Disconnected
-[16:50:01] [Server thread/INFO]: arockbet left the game
-[16:50:08] [Server thread/INFO]: <neg0ney> zzz
-[16:50:14] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[16:50:14] [Server thread/INFO]: ThiagoRX left the game
-[16:50:18] [User Authenticator #14/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[16:50:18] [Server thread/INFO]: ThiagoRX[/187.105.43.138:50895] logged in with entity id 9248 at (218.83594213208357, 65.0, -64.69999998807907)
-[16:50:18] [Server thread/INFO]: ThiagoRX joined the game
-[16:50:22] [User Authenticator #15/INFO]: UUID of player arockbet is e2a5531a-c8f8-4890-9fee-d2282fd3a587
-[16:50:23] [Server thread/INFO]: arockbet[/179.156.165.239:50568] logged in with entity id 9257 at (216.07499998807907, 63.0, -47.52147590645942)
-[16:50:23] [Server thread/INFO]: arockbet joined the game
-[16:50:31] [Server thread/INFO]: HelartMp has made the advancement [Stone Age]
-[16:50:38] [Server thread/INFO]: arockbet burned to death
-[16:55:17] [Server thread/INFO]: neg0ney has made the advancement [Acquire Hardware]
-[16:56:41] [Server thread/INFO]: HelartMp lost connection: Disconnected
-[16:56:41] [Server thread/INFO]: HelartMp left the game
-[16:58:00] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[16:58:00] [Server thread/INFO]: ThiagoRX left the game
-[16:58:01] [Server thread/INFO]: neg0ney lost connection: Disconnected
-[16:58:01] [Server thread/INFO]: neg0ney left the game
-[16:58:03] [User Authenticator #16/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
-[16:58:03] [Server thread/INFO]: neg0ney[/127.0.0.1:64932] logged in with entity id 10858 at (185.5977337656132, 63.0, -41.45641482031253)
-[16:58:03] [Server thread/INFO]: neg0ney joined the game
-[16:58:04] [User Authenticator #17/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[16:58:04] [Server thread/INFO]: ThiagoRX[/187.105.43.138:50905] logged in with entity id 10865 at (186.80917761832117, 63.0, -36.30000001192092)
-[16:58:04] [Server thread/INFO]: ThiagoRX joined the game
-[16:59:09] [Server thread/INFO]: neg0ney hit the ground too hard
-[17:02:13] [Server thread/INFO]: <neg0ney> zzz
-[17:02:16] [Server thread/INFO]: <arockbet> ain
-[17:06:25] [Server thread/INFO]: ThiagoRX fell from a high place
-[17:06:31] [Server thread/INFO]: ThiagoRX fell off a ladder
-[17:09:08] [Server thread/INFO]: arockbet fell from a high place
-[17:12:00] [Server thread/INFO]: ThiagoRX drowned
-[17:14:44] [Server thread/INFO]: <arockbet> ain law, mais fundooooooo vai
-[17:14:45] [Server thread/INFO]: <neg0ney> zzz\
-[17:14:53] [Server thread/INFO]: <arockbet> glup glup
-[17:15:15] [Server thread/INFO]: arockbet was blown up by Creeper
-[17:16:21] [Server thread/INFO]: ThiagoRX has made the advancement [Suit Up]
-[17:16:38] [Server thread/INFO]: neg0ney fell from a high place
-[17:18:22] [Server thread/INFO]: <ThiagoRX> 25 -5
-[17:18:23] [Server thread/INFO]: <ThiagoRX> 25 -25
-[17:20:30] [Server thread/INFO]: ThiagoRX has made the advancement [Not Today, Thank You]
-[17:20:41] [Server thread/INFO]: <ThiagoRX> 198 -106
-[17:20:41] [Server thread/INFO]: ThiagoRX was burnt to a crisp whilst fighting Skeleton
-[17:24:11] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[17:24:11] [Server thread/INFO]: ThiagoRX left the game
-[17:26:31] [User Authenticator #18/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[17:26:31] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51134] logged in with entity id 16311 at (206.08645826084393, 43.875, -84.28626625465836)
-[17:26:31] [Server thread/INFO]: ThiagoRX joined the game
-[17:30:01] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[17:30:01] [Server thread/INFO]: ThiagoRX left the game
-[17:30:04] [User Authenticator #19/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[17:30:04] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51140] logged in with entity id 17345 at (222.53437813037962, 33.0, -70.30000001192093)
-[17:30:04] [Server thread/INFO]: ThiagoRX joined the game
-[17:33:47] [Server thread/INFO]: ThiagoRX tried to swim in lava
-[17:34:00] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[17:34:00] [Server thread/INFO]: ThiagoRX left the game
-[17:34:02] [User Authenticator #20/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[17:34:02] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51168] logged in with entity id 18400 at (218.12272449014185, 65.0, -64.30000001192093)
-[17:34:02] [Server thread/INFO]: ThiagoRX joined the game
-[17:36:51] [Server thread/INFO]: neg0ney hit the ground too hard
-[17:41:49] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[17:41:49] [Server thread/INFO]: ThiagoRX left the game
-[17:41:53] [User Authenticator #21/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[17:41:53] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51179] logged in with entity id 20225 at (220.77461550318122, 34.0, -68.94474856943448)
-[17:41:53] [Server thread/INFO]: ThiagoRX joined the game
-[17:41:59] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=220, y=33, z=-68} fo{x=219, y=32, z=-68}
-[17:41:59] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=218, y=33, z=-68} fo{x=219, y=32, z=-68}
-[17:42:09] [Server thread/INFO]: ThiagoRX was burnt to a crisp whilst fighting Ghast
-[17:42:35] [Server thread/INFO]: <arockbet> law vem pra cama
-[17:42:36] [Server thread/INFO]: <arockbet> bb
-[17:42:48] [Server thread/INFO]: <arockbet> to toda molhadinha
-[17:42:49] [Server thread/INFO]: <neg0ney> zzzzzzz
-[17:42:49] [Server thread/INFO]: <arockbet> vem
-[17:42:51] [Server thread/INFO]: <arockbet> zzz
-[17:52:19] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[17:52:19] [Server thread/INFO]: ThiagoRX left the game
-[17:52:52] [User Authenticator #22/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[17:52:53] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51215] logged in with entity id 22355 at (38.807354660678385, 44.0, -38.05783539600981)
-[17:52:53] [Server thread/INFO]: ThiagoRX joined the game
-[17:59:27] [Server thread/INFO]: <neg0ney> zzzzz
-[17:59:29] [Server thread/INFO]: <arockbet> me chupa vai
-[18:03:31] [Server thread/INFO]: arockbet has made the advancement [Hot Stuff]
-[18:03:40] [Server thread/INFO]: neg0ney hit the ground too hard
-[18:03:44] [Server thread/INFO]: <ThiagoRX> 159 -103
-[18:10:51] [Server thread/INFO]: ThiagoRX hit the ground too hard
-[18:11:01] [Server thread/INFO]: <neg0ney> ta mutado thaigo
-[18:15:44] [Server thread/INFO]: ThiagoRX fell off a ladder
-[18:15:49] [Server thread/INFO]: arockbet has made the advancement [Suit Up]
-[18:18:50] [Server thread/INFO]: arockbet was slain by Zombie Villager
-[18:19:20] [Server thread/INFO]: neg0ney fell from a high place
-[18:21:46] [Server thread/WARN]: ThiagoRX moved too quickly! -0.05994287916254848,-10.998725361796062,0.006667005383121705
-[18:23:28] [Server thread/WARN]: ThiagoRX moved too quickly! -0.2771493081484664,-10.280471585997049,0.08878874653665036
-[18:26:10] [Server thread/INFO]: arockbet has made the advancement [Best Friends Forever]
-[18:27:18] [Server thread/INFO]: neg0ney has made the advancement [Best Friends Forever]
-[18:30:20] [Server thread/INFO]: ThiagoRX has made the advancement [Fishy Business]
-[18:31:15] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/30426, l='world', x=213.80, y=63.00, z=-48.84]
-[18:31:15] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/30426, l='world', x=213.80, y=63.00, z=-48.84]
-[18:31:15] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/30426, l='world', x=213.80, y=63.00, z=-48.84]
-[18:33:25] [Server thread/INFO]: <neg0ney> zzzzz
-[18:33:28] [Server thread/INFO]: <arockbet> zzzzz
-[18:33:58] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:33:58] [Server thread/INFO]: ThiagoRX left the game
-[18:34:01] [User Authenticator #23/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:34:01] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51367] logged in with entity id 30825 at (182.58205021930178, 63.0, -29.127074698233283)
-[18:34:01] [Server thread/INFO]: ThiagoRX joined the game
-[18:34:20] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:34:20] [Server thread/INFO]: ThiagoRX left the game
-[18:34:21] [User Authenticator #24/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:34:21] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51385] logged in with entity id 30902 at (182.6078478840487, 63.0, -29.008230707951242)
-[18:34:21] [Server thread/INFO]: ThiagoRX joined the game
-[18:37:53] [Server thread/WARN]: ThiagoRX moved too quickly! -4.820859131095375,-3.0554624345250403,8.388416825256087
-[18:37:55] [Server thread/WARN]: arockbet moved too quickly! -8.954972094852934,-2.024424088213692,-4.028760096821813
-[18:39:22] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:39:22] [Server thread/INFO]: ThiagoRX left the game
-[18:39:31] [Server thread/INFO]: neg0ney was slain by arockbet
-[18:40:09] [Server thread/INFO]: arockbet was slain by neg0ney
-[18:42:20] [Server thread/INFO]: arockbet tried to swim in lava
-[18:42:36] [Server thread/INFO]: neg0ney has made the advancement [Hot Stuff]
-[18:47:47] [Server thread/INFO]: arockbet lost connection: Disconnected
-[18:47:47] [Server thread/INFO]: arockbet left the game
-[18:47:50] [User Authenticator #25/INFO]: UUID of player arockbet is e2a5531a-c8f8-4890-9fee-d2282fd3a587
-[18:47:50] [Server thread/INFO]: arockbet[/179.156.165.239:54263] logged in with entity id 33475 at (218.49931944259328, 65.0, -62.13289091390323)
-[18:47:50] [Server thread/INFO]: arockbet joined the game
-[18:48:58] [Server thread/INFO]: <arockbet> zzzzz
-[18:49:25] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/33703, l='world', x=218.35, y=63.00, z=-50.17]
-[18:49:25] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/33703, l='world', x=218.35, y=63.00, z=-50.17]
-[18:50:56] [Server thread/INFO]: <neg0ney> zzzz
-[18:50:58] [Server thread/INFO]: <arockbet> zzzzz
-[18:51:48] [Server thread/INFO]: arockbet was slain by Enderman
-[18:51:53] [Server thread/INFO]: neg0ney was slain by Enderman
-[18:52:23] [Server thread/INFO]: neg0ney has made the advancement [Suit Up]
-[18:56:21] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/35023, l='world', x=215.99, y=63.00, z=-48.12]
-[18:58:08] [Server thread/INFO]: neg0ney lost connection: Disconnected
-[18:58:08] [Server thread/INFO]: neg0ney left the game
-[18:58:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f2e2d18[id=<null>,name=neg0ney,properties={},legacy=false] (/127.0.0.1:56069) lost connection: Disconnected
-[18:58:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@332956a3[id=<null>,name=neg0ney,properties={},legacy=false] (/127.0.0.1:56072) lost connection: Disconnected
-[18:58:18] [Server thread/INFO]: com.mojang.authlib.GameProfile@3fe33c45[id=<null>,name=neg0ney,properties={},legacy=false] (/127.0.0.1:56080) lost connection: Disconnected
-[18:58:49] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/35282, l='world', x=215.71, y=63.00, z=-47.19]
-[18:58:59] [User Authenticator #26/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
-[18:58:59] [Server thread/INFO]: neg0ney[/127.0.0.1:56227] logged in with entity id 35310 at (185.50021851417276, 63.0, -30.404073496148943)
-[18:58:59] [Server thread/INFO]: neg0ney joined the game
-[19:06:19] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/36371, l='world', x=216.51, y=63.00, z=-47.25]
-[19:06:19] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/36371, l='world', x=216.51, y=63.00, z=-47.25]
-[19:08:05] [User Authenticator #27/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[19:08:05] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51526] logged in with entity id 36589 at (191.0861850656569, 63.0, -32.45287507252627)
-[19:08:05] [Server thread/INFO]: ThiagoRX joined the game
-[19:08:08] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[19:08:08] [Server thread/INFO]: ThiagoRX left the game
-[19:09:20] [User Authenticator #28/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[19:09:20] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51570] logged in with entity id 36772 at (191.0861850656569, 63.0, -32.45287507252627)
-[19:09:20] [Server thread/INFO]: ThiagoRX joined the game
-[19:10:03] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/36869, l='world', x=217.74, y=63.00, z=-49.76]
-[19:10:03] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/36869, l='world', x=217.74, y=63.00, z=-49.76]
-[19:10:03] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/36869, l='world', x=217.74, y=63.00, z=-49.76]
-[19:11:01] [User Authenticator #29/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[19:11:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@44bf83d9[id=c7d98761-50e3-4f62-bee6-11f370fb3ea4,name=ThiagoRX,properties={textures=[com.mojang.authlib.properties.Property@7a63d26a]},legacy=false] (/187.105.43.138:51576) lost connection: Disconnected
-[19:11:19] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[19:11:19] [Server thread/INFO]: ThiagoRX left the game
-[19:11:19] [User Authenticator #30/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[19:11:19] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51601] logged in with entity id 37056 at (186.40241940339703, 63.0, -28.861576948150464)
-[19:11:19] [Server thread/INFO]: ThiagoRX joined the game
-[19:15:27] [Server thread/WARN]: arockbet moved too quickly! 7.678911530307687,0.0,-6.475259883432464
-[19:18:54] [Server thread/INFO]: ThiagoRX was slain by Zombified Piglin
-[19:19:17] [Server thread/INFO]: arockbet was slain by neg0ney
-[19:19:52] [Server thread/INFO]: neg0ney was slain by arockbet
-[19:20:02] [Server thread/INFO]: Kicked arockbet: Kicked by an operator
-[19:20:02] [Server thread/INFO]: arockbet lost connection: Kicked by an operator
-[19:20:02] [Server thread/INFO]: arockbet left the game
-[19:20:28] [Server thread/INFO]: neg0ney lost connection: Disconnected
-[19:20:28] [Server thread/INFO]: neg0ney left the game
-[19:20:34] [Server thread/INFO]: Stopping server
-[19:20:34] [Server thread/INFO]: Saving players
-[19:20:34] [Server thread/INFO]: Saving worlds
-[19:20:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[19:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:20:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[19:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:20:35] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[19:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:20:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:26:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:26:41] [Server thread/INFO]: Using default channel type
+[19:26:43] [Server thread/INFO]: Preparing level "world"
+[19:26:44] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:26:45] [Server thread/INFO]: Loaded 6 recipes
+[19:26:45] [Server thread/INFO]: Loaded 863 advancements
+[19:26:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:26:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:26:50] [Server thread/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-1/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-2/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-5/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-5/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-4/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-3/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-6/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-4/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-5/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-1/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-6/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-5/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-6/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-1/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-3/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-6/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-4/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-4/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-4/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-5/INFO]: Preparing spawn area: 0%
+[19:27:01] [Worker-5/INFO]: Preparing spawn area: 0%
+[19:27:01] [Server thread/INFO]: Preparing spawn area: 0%
+[19:27:02] [Server thread/INFO]: Time elapsed: 14907 ms
+[19:27:02] [Server thread/INFO]: Done (18.248s)! For help, type "help"
+[19:27:22] [User Authenticator #1/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[19:27:22] [Server thread/INFO]: neg0ney[/127.0.0.1:58072] logged in with entity id 341 at (211.9997129016582, 12.0, -63.55838810291991)
+[19:27:22] [Server thread/INFO]: neg0ney joined the game
+[19:27:38] [User Authenticator #2/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[19:27:38] [Server thread/INFO]: ThiagoRX[/187.105.43.138:51754] logged in with entity id 389 at (217.51249998807907, 24.352536063798397, -64.65811322087075)
+[19:27:38] [Server thread/INFO]: ThiagoRX joined the game
+[19:28:04] [Server thread/INFO]: neg0ney lost connection: Disconnected
+[19:28:04] [Server thread/INFO]: neg0ney left the game
+[19:28:23] [User Authenticator #3/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[19:28:23] [Server thread/INFO]: neg0ney[/127.0.0.1:58137] logged in with entity id 476 at (217.5515797060086, 15.0, -64.53001686502787)
+[19:28:23] [Server thread/INFO]: neg0ney joined the game
+[19:28:29] [Server thread/INFO]: ThiagoRX burned to death
+[19:28:37] [Server thread/INFO]: neg0ney lost connection: Disconnected
+[19:28:37] [Server thread/INFO]: neg0ney left the game
+[19:28:44] [User Authenticator #4/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[19:28:44] [Server thread/INFO]: neg0ney[/127.0.0.1:58166] logged in with entity id 586 at (189.5, 63.0, -0.5)
+[19:28:44] [Server thread/INFO]: neg0ney joined the game
+[19:29:06] [Server thread/INFO]: ThiagoRX fell off a ladder
+[19:29:06] [Server thread/INFO]: neg0ney lost connection: Disconnected
+[19:29:06] [Server thread/INFO]: neg0ney left the game
+[19:29:53] [User Authenticator #5/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[19:29:53] [Server thread/INFO]: neg0ney[/127.0.0.1:58231] logged in with entity id 729 at (214.89432722292233, 14.0, -64.51079491717259)
+[19:29:53] [Server thread/INFO]: neg0ney joined the game
+[19:30:05] [Server thread/INFO]: neg0ney lost connection: Disconnected
+[19:30:05] [Server thread/INFO]: neg0ney left the game
+[19:30:14] [User Authenticator #6/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[19:30:14] [Server thread/INFO]: neg0ney[/127.0.0.1:58250] logged in with entity id 762 at (215.30000001192093, 13.0, -64.69999998807907)
+[19:30:14] [Server thread/INFO]: neg0ney joined the game
+[19:32:09] [Server thread/INFO]: ThiagoRX fell from a high place
+[19:33:56] [Server thread/INFO]: ThiagoRX went up in flames
+[19:35:16] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/1616, l='world', x=216.69, y=63.00, z=-48.56]
+[19:35:16] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/1616, l='world', x=216.69, y=63.00, z=-48.56]
+[19:45:51] [Server thread/INFO]: neg0ney has made the advancement [Diamonds!]
+[19:50:00] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/4344, l='world', x=218.18, y=63.00, z=-47.96]
+[19:50:00] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/4344, l='world', x=218.18, y=63.00, z=-47.96]
+[19:50:41] [Server thread/INFO]: ThiagoRX was slain by Zombie
+[19:52:57] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/4873, l='world', x=217.15, y=63.00, z=-48.46]
+[19:52:57] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/4873, l='world', x=217.15, y=63.00, z=-48.46]
+[20:00:11] [Server thread/INFO]: <ThiagoRX> thoroughness
+[20:04:30] [Server thread/INFO]: neg0ney has made the advancement [Ice Bucket Challenge]
+[20:05:33] [Server thread/INFO]: ThiagoRX fell off a ladder
+[20:07:59] [Server thread/INFO]: <neg0ney> zzZZZZzzZz
+[20:08:01] [Server thread/INFO]: <ThiagoRX> z
+[20:23:44] [Server thread/INFO]: neg0ney has made the advancement [Not Today, Thank You]
+[20:40:00] [Server thread/INFO]: neg0ney has made the advancement [Enchanter]
+[20:40:27] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/13063, l='world', x=215.15, y=63.00, z=-50.17]
+[20:40:27] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/13063, l='world', x=215.15, y=63.00, z=-50.17]
+[20:41:06] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[20:41:06] [Server thread/INFO]: ThiagoRX left the game
+[20:50:06] [User Authenticator #7/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[20:50:06] [Server thread/INFO]: ThiagoRX[/187.105.43.138:52091] logged in with entity id 14409 at (207.3237220205269, 10.0, -28.773902681026463)
+[20:50:06] [Server thread/INFO]: ThiagoRX joined the game
+[20:55:58] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/15695, l='world', x=213.88, y=63.00, z=-49.30]
+[20:55:58] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/15695, l='world', x=213.88, y=63.00, z=-49.30]
+[21:03:16] [Server thread/INFO]: ThiagoRX fell off a ladder
+[21:06:55] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/17614, l='world', x=218.72, y=63.00, z=-47.62]
+[21:06:55] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/17614, l='world', x=218.72, y=63.00, z=-47.62]
+[21:11:47] [Server thread/WARN]: neg0ney moved wrongly!
+[21:19:34] [Server thread/INFO]: neg0ney fell from a high place
+[21:20:41] [Server thread/INFO]: ThiagoRX fell from a high place
+[21:23:53] [Server thread/WARN]: Fetching packet for removed entity azl['Air'/20124, l='world', x=217.71, y=63.00, z=-49.70]
+[21:24:20] [Server thread/INFO]: neg0ney lost connection: Disconnected
+[21:24:20] [Server thread/INFO]: neg0ney left the game
+[21:24:22] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:24:22] [Server thread/INFO]: ThiagoRX left the game
+[21:24:24] [Server thread/INFO]: Stopping server
+[21:24:24] [Server thread/INFO]: Saving players
+[21:24:24] [Server thread/INFO]: Saving worlds
+[21:24:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:24:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:24:24] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:24:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
