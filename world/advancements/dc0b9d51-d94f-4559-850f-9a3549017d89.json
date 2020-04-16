@@ -647,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-04-16 21:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-04-08 00:30:22 +0000"
@@ -1128,6 +1134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-04-16 21:23:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-04-07 23:55:17 +0000"
@@ -1269,6 +1281,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2020-04-07 23:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2020-04-16 21:06:47 +0000"
     },
     "done": true
   },
@@ -1418,6 +1436,7 @@
       "baked_potato": "2020-04-08 01:46:03 +0000",
       "apple": "2020-04-16 01:43:10 +0000",
       "potato": "2020-04-07 23:29:35 +0000",
+      "poisonous_potato": "2020-04-16 21:26:18 +0000",
       "salmon": "2020-04-08 01:26:52 +0000",
       "cooked_chicken": "2020-04-08 00:50:10 +0000",
       "mushroom_stew": "2020-04-07 23:46:22 +0000"
@@ -1427,6 +1446,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-04-07 23:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-04-16 21:23:35 +0000"
     },
     "done": true
   },
@@ -2132,6 +2157,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2020-04-08 02:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-04-16 21:09:44 +0000"
     },
     "done": true
   },

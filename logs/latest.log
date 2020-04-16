@@ -1,84 +1,111 @@
-[01:00:00] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[01:00:00] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[01:00:00] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:00:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:00:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:00:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:00:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:00:00] [Server thread/INFO]: Starting minecraft server version 20w16a
-[01:00:00] [Server thread/INFO]: Loading properties
-[01:00:00] [Server thread/INFO]: Default game type: SURVIVAL
-[01:00:00] [Server thread/INFO]: Generating keypair
-[01:00:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:00:01] [Server thread/INFO]: Using epoll channel type
-[01:00:01] [Server thread/INFO]: Preparing level "world"
-[01:00:01] [Server thread/INFO]: Reloading ResourceManager: Default
-[01:00:12] [User Authenticator #1/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[01:00:53] [Server thread/INFO]: Loaded 6 recipes
-[01:00:58] [Server thread/INFO]: Loaded 908 advancements
-[01:00:59] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:01:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:01:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:01:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:01:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:01:01] [Server thread/INFO]: Preparing spawn area: 6%
-[01:01:01] [Server thread/INFO]: Time elapsed: 2487 ms
-[01:01:01] [Server thread/INFO]: Done (60.084s)! For help, type "help"
-[01:01:02] [Server thread/INFO]: com.mojang.authlib.GameProfile@77d61b3[id=c7d98761-50e3-4f62-bee6-11f370fb3ea4,name=ThiagoRX,properties={textures=[com.mojang.authlib.properties.Property@5dbe00a1]},legacy=false] (/187.105.43.138:32882) lost connection: Disconnected
-[01:01:29] [User Authenticator #2/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
-[01:01:29] [Server thread/INFO]: neg0ney[/131.161.135.6:51205] logged in with entity id 371 at (191.68043127667153, 63.0, -33.96549604891338)
-[01:01:29] [Server thread/INFO]: neg0ney joined the game
-[01:01:47] [User Authenticator #3/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[01:01:47] [Server thread/INFO]: ThiagoRX[/187.105.43.138:32986] logged in with entity id 427 at (153.53697574550793, 39.0, -62.11521029273831)
-[01:01:47] [Server thread/INFO]: ThiagoRX joined the game
-[01:28:31] [Server thread/INFO]: <ThiagoRX> tua voz
-[01:28:32] [Server thread/INFO]: <ThiagoRX> ta travando
-[01:28:34] [Server thread/INFO]: <ThiagoRX> pra caralho
-[01:32:27] [Server thread/INFO]: <ThiagoRX> 16
-[02:13:50] [Server thread/INFO]: <neg0ney> q
-[02:15:38] [Server thread/WARN]: Fetching packet for removed entity azt['Air'/14560, l='world', x=215.56, y=78.00, z=-104.12]
-[02:17:41] [Server thread/INFO]: <ThiagoRX> 182 -141 10
-[02:24:58] [Server thread/INFO]: neg0ney lost connection: Disconnected
-[02:24:58] [Server thread/INFO]: neg0ney left the game
-[02:26:27] [User Authenticator #4/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
-[02:26:27] [Server thread/INFO]: neg0ney[/131.161.135.6:51316] logged in with entity id 16643 at (204.83968639347097, 10.0, -23.378976578882238)
-[02:26:27] [Server thread/INFO]: neg0ney joined the game
-[02:28:26] [Server thread/INFO]: neg0ney was slain by ThiagoRX
-[02:46:09] [Server thread/INFO]: <neg0ney> zzz
-[02:46:13] [Server thread/INFO]: <ThiagoRX> zzz
-[02:52:36] [Server thread/INFO]: ThiagoRX burned to death
-[03:09:02] [Server thread/INFO]: neg0ney lost connection: Disconnected
-[03:09:02] [Server thread/INFO]: neg0ney left the game
-[03:09:16] [User Authenticator #5/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
-[03:09:16] [Server thread/INFO]: neg0ney[/131.161.135.6:51342] logged in with entity id 23709 at (186.6912806283303, 18.0, 45.9677185190612)
-[03:09:16] [Server thread/INFO]: neg0ney joined the game
-[03:10:18] [Server thread/INFO]: ThiagoRX was blown up by Creeper
-[03:18:04] [Server thread/INFO]: <ThiagoRX> 11
-[03:42:10] [Server thread/INFO]: <neg0ney> kd tu
-[03:42:57] [Server thread/INFO]: <neg0ney> zzz
-[03:42:58] [Server thread/INFO]: <ThiagoRX> zzzzz
-[03:46:36] [Server thread/INFO]: neg0ney lost connection: Disconnected
-[03:46:36] [Server thread/INFO]: neg0ney left the game
-[03:46:43] [User Authenticator #6/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
-[03:46:43] [Server thread/INFO]: neg0ney[/131.161.135.6:51391] logged in with entity id 29969 at (185.69999998807907, 54.0, -37.66704902890984)
-[03:46:43] [Server thread/INFO]: neg0ney joined the game
-[03:50:33] [Server thread/INFO]: neg0ney has made the advancement [Tactical Fishing]
-[04:03:24] [Server thread/INFO]: neg0ney lost connection: Disconnected
-[04:03:24] [Server thread/INFO]: neg0ney left the game
-[04:03:26] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[04:03:26] [Server thread/INFO]: ThiagoRX left the game
-[04:03:39] [Server thread/INFO]: Saving the game (this may take a moment!)
-[04:03:39] [Server thread/INFO]: Saved the game
-[04:03:40] [Server thread/INFO]: Stopping the server
-[04:03:40] [Server thread/INFO]: Stopping server
-[04:03:40] [Server thread/INFO]: Saving players
-[04:03:40] [Server thread/INFO]: Saving worlds
-[04:03:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[04:03:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:03:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[04:03:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:03:41] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[04:03:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:03:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:03:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:03:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:27:01] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[20:27:01] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[20:27:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[20:27:02] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:27:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:27:02] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:27:02] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20:27:02] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20:27:02] [Server thread/INFO]: Starting minecraft server version 20w16a
+[20:27:02] [Server thread/INFO]: Loading properties
+[20:27:02] [Server thread/INFO]: Default game type: SURVIVAL
+[20:27:02] [Server thread/INFO]: Generating keypair
+[20:27:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:27:02] [Server thread/INFO]: Using epoll channel type
+[20:27:02] [Server thread/INFO]: Preparing level "world"
+[20:27:03] [Server thread/INFO]: Reloading ResourceManager: Default
+[20:27:42] [User Authenticator #1/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[20:27:48] [Server thread/INFO]: Loaded 6 recipes
+[20:27:57] [User Authenticator #2/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[20:27:59] [Server thread/INFO]: Loaded 908 advancements
+[20:28:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:28:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:02] [Server thread/INFO]: Preparing spawn area: 0%
+[20:28:03] [Server thread/INFO]: Time elapsed: 2761 ms
+[20:28:03] [Server thread/INFO]: Done (60.754s)! For help, type "help"
+[20:28:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@aa77286[id=dc0b9d51-d94f-4559-850f-9a3549017d89,name=neg0ney,properties={textures=[com.mojang.authlib.properties.Property@29ffa287]},legacy=false] (/131.161.135.6:53068) lost connection: Disconnected
+[20:28:04] [Server thread/INFO]: neg0ney[/131.161.135.6:53070] logged in with entity id 363 at (195.37090127665047, 63.0, -45.069669226548704)
+[20:28:04] [Server thread/INFO]: neg0ney joined the game
+[20:28:37] [User Authenticator #3/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[20:28:37] [Server thread/INFO]: ThiagoRX[/187.105.43.138:46398] logged in with entity id 429 at (192.206787109375, 64.55000001192093, -43.91796875)
+[20:28:37] [Server thread/INFO]: ThiagoRX joined the game
+[20:28:43] [Server thread/INFO]: neg0ney lost connection: Disconnected
+[20:28:43] [Server thread/INFO]: neg0ney left the game
+[20:28:46] [User Authenticator #4/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[20:28:46] [Server thread/INFO]: neg0ney[/131.161.135.6:53077] logged in with entity id 460 at (215.06894624364418, 60.0, -13.551505835230321)
+[20:28:46] [Server thread/INFO]: neg0ney joined the game
+[20:44:03] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[20:44:03] [Server thread/INFO]: ThiagoRX left the game
+[20:51:09] [User Authenticator #5/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[20:51:09] [Server thread/INFO]: ThiagoRX[/187.105.43.138:46654] logged in with entity id 4206 at (227.80073889729528, 63.0, -20.955403837538263)
+[20:51:09] [Server thread/INFO]: ThiagoRX joined the game
+[20:52:31] [Server thread/INFO]: ThiagoRX fell off a ladder
+[20:53:55] [Server thread/INFO]: neg0ney lost connection: Disconnected
+[20:53:55] [Server thread/INFO]: neg0ney left the game
+[20:54:01] [User Authenticator #6/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[20:54:01] [Server thread/INFO]: neg0ney[/131.161.135.6:53109] logged in with entity id 4747 at (168.0978793377668, 63.0, -31.794710411319457)
+[20:54:01] [Server thread/INFO]: neg0ney joined the game
+[20:54:16] [Server thread/INFO]: <neg0ney> zzz
+[21:00:10] [Server thread/WARN]: ThiagoRX moved too quickly! -2.678674591351154,-1.2491870787446828,9.718072299312078
+[21:02:22] [Server thread/INFO]: <ThiagoRX> -350 2
+[21:03:05] [Server thread/WARN]: Boat (vehicle of ThiagoRX) moved too quickly! -7.903596774743278,0.0,-6.661847053857095
+[21:03:05] [Server thread/WARN]: Boat (vehicle of ThiagoRX) moved too quickly! -8.229548989025034,0.0,-6.892340337991005
+[21:03:05] [Server thread/WARN]: Boat (vehicle of ThiagoRX) moved too quickly! -8.556241261231264,0.0,-7.121892172503969
+[21:03:05] [Server thread/WARN]: Boat (vehicle of ThiagoRX) moved too quickly! -8.88361653189736,0.0,-7.350571130125275
+[21:03:05] [Server thread/WARN]: Boat (vehicle of ThiagoRX) moved too quickly! -9.211621312915327,0.0,-7.578442107707562
+[21:03:05] [Server thread/WARN]: Boat (vehicle of ThiagoRX) moved too quickly! -9.540207450088076,0.0,-7.805563506828719
+[21:03:05] [Server thread/WARN]: Boat (vehicle of ThiagoRX) moved too quickly! -9.869327368984216,0.0,-8.031994279642964
+[21:03:05] [Server thread/WARN]: Boat (vehicle of ThiagoRX) moved too quickly! -10.198938241440771,0.0,-8.257787479362396
+[21:03:05] [Server thread/WARN]: Boat (vehicle of ThiagoRX) moved too quickly! -10.529001518386906,0.0,-8.482990848288704
+[21:05:05] [Server thread/INFO]: <neg0ney> zz
+[21:05:07] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:05:07] [Server thread/INFO]: ThiagoRX left the game
+[21:05:10] [User Authenticator #7/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:05:10] [Server thread/INFO]: ThiagoRX[/187.105.43.138:46700] logged in with entity id 8877 at (-870.5948556901898, 63.0, -60.76661622584251)
+[21:05:10] [Server thread/INFO]: ThiagoRX joined the game
+[21:10:50] [Server thread/WARN]: Fetching packet for removed entity azt['Air'/12150, l='world', x=-1631.46, y=61.97, z=-5.83]
+[21:12:44] [Server thread/INFO]: Villager bcc['Villager'/55, l='world', x=222.33, y=9.90, z=-43.49] died, message: 'Villager was slain by Zombie'
+[21:15:40] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=-1619, y=53, z=-4} fo{x=-1619, y=52, z=-4}
+[21:16:05] [Server thread/INFO]: <ThiagoRX> -1600 24
+[21:16:06] [Server thread/INFO]: <neg0ney> zzz
+[21:16:07] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:16:07] [Server thread/INFO]: ThiagoRX left the game
+[21:16:25] [User Authenticator #8/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:16:25] [Server thread/INFO]: ThiagoRX[/187.105.43.138:46784] logged in with entity id 14079 at (-1607.1030627613354, 62.073264739703426, 24.776292879513726)
+[21:16:25] [Server thread/INFO]: ThiagoRX joined the game
+[21:17:54] [Server thread/INFO]: <neg0ney> 6
+[21:18:46] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:18:46] [Server thread/INFO]: ThiagoRX left the game
+[21:18:48] [User Authenticator #9/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:18:48] [Server thread/INFO]: ThiagoRX[/187.105.43.138:46794] logged in with entity id 15159 at (-1282.8107142820713, 68.0, 129.69629947417212)
+[21:18:48] [Server thread/INFO]: ThiagoRX joined the game
+[21:22:56] [Server thread/INFO]: <neg0ney> O CACHORRO DO LEO KKKKKKKKKKKKKKKKKK
+[21:27:28] [Server thread/WARN]: ThiagoRX moved too quickly! -0.1390049583756081,-0.20000004768371582,-10.175841022764374
+[21:28:05] [Server thread/INFO]: <neg0ney> zzzzz
+[21:28:12] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:28:12] [Server thread/INFO]: ThiagoRX left the game
+[21:28:14] [User Authenticator #10/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:28:14] [Server thread/INFO]: ThiagoRX[/187.105.43.138:46822] logged in with entity id 18948 at (170.6932715787371, 10.0, -25.14286908446656)
+[21:28:14] [Server thread/INFO]: ThiagoRX joined the game
+[21:28:17] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:28:17] [Server thread/INFO]: ThiagoRX left the game
+[21:28:24] [User Authenticator #11/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:28:24] [Server thread/INFO]: ThiagoRX[/187.105.43.138:46832] logged in with entity id 18965 at (170.6932715787371, 10.0, -25.14286908446656)
+[21:28:24] [Server thread/INFO]: ThiagoRX joined the game
+[21:29:07] [Server thread/INFO]: <ThiagoRX> 206 -32
+[21:30:04] [Server thread/INFO]: <neg0ney> q
+[21:31:32] [Server thread/INFO]: <neg0ney> 207 -21
+[21:31:48] [Server thread/INFO]: <ThiagoRX> 210 -20
+[21:32:34] [User Authenticator #12/INFO]: UUID of player arockbet is e2a5531a-c8f8-4890-9fee-d2282fd3a587
+[21:32:34] [Server thread/INFO]: arockbet[/179.156.165.239:61261] logged in with entity id 19604 at (214.89432722292233, 14.0, -64.51079491717259)
+[21:32:34] [Server thread/INFO]: arockbet joined the game
+[21:32:50] [Server thread/INFO]: <neg0ney> discord
+[21:32:55] [Server thread/INFO]: <ThiagoRX> 210 -21
+[21:34:00] [Server thread/INFO]: <neg0ney> discord
+[21:34:04] [Server thread/INFO]: <arockbet> calam
+[21:34:06] [Server thread/INFO]: <arockbet> calma
+[21:34:11] [Server thread/INFO]: Saving the game (this may take a moment!)
+[21:34:11] [Server thread/INFO]: Saved the game
