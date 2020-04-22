@@ -1,46 +1,250 @@
-[16:56:40] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[16:56:40] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[16:56:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[16:56:41] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:56:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:56:41] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:56:41] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:56:41] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:56:41] [Server thread/INFO]: Starting minecraft server version 20w16a
-[16:56:41] [Server thread/INFO]: Loading properties
-[16:56:41] [Server thread/INFO]: Default game type: SURVIVAL
-[16:56:41] [Server thread/INFO]: Generating keypair
-[16:56:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:56:41] [Server thread/INFO]: Using epoll channel type
-[16:56:42] [Server thread/INFO]: Preparing level "world"
-[16:56:42] [Server thread/INFO]: Reloading ResourceManager: Default
-[16:56:51] [Server thread/INFO]: Loaded 6 recipes
-[16:56:51] [Server thread/INFO]: Loaded 908 advancements
-[16:56:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:56:53] [Server thread/INFO]: Preparing spawn area: 0%
-[16:56:53] [Server thread/INFO]: Preparing spawn area: 0%
-[16:56:53] [Server thread/INFO]: Preparing spawn area: 0%
-[16:56:53] [Server thread/INFO]: Preparing spawn area: 0%
-[16:56:53] [Server thread/INFO]: Time elapsed: 1882 ms
-[16:56:53] [Server thread/INFO]: Done (11.821s)! For help, type "help"
-[16:57:27] [User Authenticator #1/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[16:57:27] [Server thread/INFO]: ThiagoRX[/127.0.0.1:43808] logged in with entity id 359 at (179.30000001192093, 63.875, -32.48494203240684)
-[16:57:27] [Server thread/INFO]: ThiagoRX joined the game
-[17:01:35] [Server thread/WARN]: Fetching packet for removed entity azt['Air'/1195, l='world', x=217.82, y=63.00, z=-49.77]
-[17:21:41] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[17:21:41] [Server thread/INFO]: ThiagoRX left the game
-[17:21:47] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:21:47] [Server thread/INFO]: Saved the game
-[17:21:48] [Server thread/INFO]: Stopping the server
-[17:21:48] [Server thread/INFO]: Stopping server
-[17:21:48] [Server thread/INFO]: Saving players
-[17:21:48] [Server thread/INFO]: Saving worlds
-[17:21:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[17:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:21:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[17:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:21:48] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[17:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:21:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:02:07] [Server thread/INFO]: <ThiagoRX> -310 -14
+[00:03:52] [Server thread/INFO]: <ThiagoRX> 39 2
+[00:08:22] [Server thread/INFO]: arockbet lost connection: Disconnected
+[00:08:22] [Server thread/INFO]: arockbet left the game
+[00:08:26] [User Authenticator #23/INFO]: UUID of player arockbet is e2a5531a-c8f8-4890-9fee-d2282fd3a587
+[00:08:26] [Server thread/INFO]: arockbet[/179.156.165.239:60099] logged in with entity id 55768 at (-3739.5175966638194, 64.0, 1034.4278540409023)
+[00:08:26] [Server thread/INFO]: arockbet joined the game
+[00:08:35] [Server thread/WARN]: Fetching packet for removed entity azt['Ender Pearl'/56047, l='world', x=23.63, y=246.06, z=3.13]
+[00:08:35] [Server thread/WARN]: Fetching packet for removed entity anm['Experience Orb'/55989, l='world', x=25.82, y=246.07, z=3.53]
+[00:13:31] [Server thread/WARN]: arockbet moved too quickly! -8.743542565766802,-1.0,5.2974283667457485
+[00:16:19] [Server thread/INFO]: Mathdsi_Gamer lost connection: Timed out
+[00:16:19] [Server thread/INFO]: Mathdsi_Gamer left the game
+[00:16:30] [User Authenticator #24/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
+[00:16:30] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:64076] logged in with entity id 63404 at (155.69999998807907, 116.0, 84.5)
+[00:16:30] [Server thread/INFO]: Mathdsi_Gamer joined the game
+[00:21:59] [Server thread/WARN]: Fetching packet for removed entity azt['Cobblestone'/66885, l='world', x=224.97, y=10.00, z=-51.88]
+[00:22:01] [Server thread/WARN]: Fetching packet for removed entity azt['Leather'/66925, l='world', x=159.29, y=64.00, z=-50.97]
+[00:24:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4420ms or 88 ticks behind
+[00:24:07] [Server thread/WARN]: ThiagoRX moved wrongly!
+[00:32:16] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.3955332477544289
+[00:32:16] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.8704453661248408
+[00:34:46] [Server thread/WARN]: Mismatch in destroy block pos: fo{x=250, y=11, z=-81} fo{x=251, y=10, z=-81}
+[00:38:41] [Server thread/INFO]: Villager bcc['Farmer'/77086, l='world', x=-307.31, y=74.90, z=-37.69] died, message: 'Farmer suffocated in a wall'
+[00:39:15] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.2584220286771597
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.26636298229732347
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.7245010460519552
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 1.19026107897389
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46986144121092366
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4720994126137157
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4734041492556571
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.947535683904789
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47452074407101463
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47472900227239734
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47484043708391255
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47490006362932036
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4749319686052331
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9498810089271501
+[00:39:17] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47495817505659943
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47496306287121115
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4749656782432794
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4749803645072461
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.949980965559007
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47495651734607236
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47480443260701577
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9493266708841475
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4743132879593759
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47420148281071306
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47414165810459963
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.474078648881914
+[00:39:18] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4739481994538437
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.268799935763127
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.729158259232463
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46699323012035165
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9375968325393842
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47270683945225755
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9465615574226831
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4744689248791474
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9492726097278137
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4559931872991001
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.44592806510081573
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.44054241888898105
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4566521709839435
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4450749970674224
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.43888028212859354
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4404297515666258
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.45259214066845743
+[00:39:19] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4030861495848512
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.7696177274201546
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.3473089441695265
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.34453167845367716
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.3496069128304953
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.3603407407617851
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4103803923981104
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4332272261090111
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.44501353784471576
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.896192832136876
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4581304972916769
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4041459453810603
+[00:39:20] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.32347189320717007
+[00:39:23] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.26601511644639686
+[00:39:23] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.7241568465733508
+[00:39:23] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4660519478729839
+[00:39:23] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9363364955488578
+[00:39:23] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47254932744181133
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9463104933820432
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 1.4207253572667469
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47475258244503493
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4749181190127274
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9499248133424771
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4750540892155186
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9501335384902632
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 1.4251154958501502
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47223506671525683
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.941328451287518
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46713990697571717
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4263410939965979
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4047927584233548
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4328256017552121
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.44782541730728553
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9037677587275539
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.461755616964183
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46649683053146873
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4704600986897276
+[00:39:24] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.926105806983287
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.44771882335953705
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9080759173821207
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 1.3749970515364112
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4707425210344809
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9428011080690339
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 1.4139515145061523
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4691219205797097
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4677867416248773
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4670723139861366
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4666900380016159
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46648548974371806
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9328615297927172
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46631747569972504
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46686208171740873
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46810632254255324
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4694656135270634
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47133817829853797
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47286937182161637
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4736886829468858
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47412707999501436
+[00:39:25] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47436165751423687
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4744871752682229
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47448533534043236
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.8735951467842824
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 1.363085014831995
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 2.020077314210539
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.5720087028576017
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.5265356747495389
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 1.028739638793013
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.48918455076636747
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.48221812230076466
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9607086476253244
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4764959625026677
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47542871170389844
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9501975384937396
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4738055421057652
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4728492061231009
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9451327716751621
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4720853536427967
+[00:39:26] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4720827710279991
+[00:39:27] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.944164160150649
+[00:39:27] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47213104483762436
+[00:39:27] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9454458647251158
+[00:39:27] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.43268476530101907
+[00:40:24] [Server thread/WARN]: arockbet was kicked for floating too long!
+[00:40:24] [Server thread/INFO]: arockbet lost connection: Flying is not enabled on this server
+[00:40:24] [Server thread/INFO]: arockbet left the game
+[00:40:30] [User Authenticator #25/INFO]: UUID of player arockbet is e2a5531a-c8f8-4890-9fee-d2282fd3a587
+[00:40:30] [Server thread/INFO]: arockbet[/179.156.165.239:60318] logged in with entity id 78765 at (-4963.3596179853175, 91.97450001686812, 1025.5915147705005)
+[00:40:30] [Server thread/INFO]: arockbet joined the game
+[00:40:36] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.25223525484059106
+[00:40:36] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.6969044282439
+[00:40:36] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.45873407083887263
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46631875948478557
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47042645983601594
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47263810283977364
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47382536757550736
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4744456892407795
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4746533575024151
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4748366939798171
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47497915703509397
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47506295224911604
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4749463378801516
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47413823259048415
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4560658293482257
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.9159930576785758
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4713329222043799
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4771416014779228
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4805906425976488
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.48255310441136
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.48363620617453934
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.48422513699282405
+[00:40:37] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.48454293798384196
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46756537947447996
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4674754277367963
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47006480134040246
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47216726409681103
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4734946611327357
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4742522942993631
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4746026384787503
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47470277019494217
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.47456221939619103
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4630729381794062
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4677983037472586
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4685794677661761
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.46453342258155317
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.45437730703088164
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.43831122742267326
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4161812579477555
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.3954645685025753
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.3799567475125514
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.3803353390931079
+[00:40:38] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.39258199706182495
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.40679507119057234
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.41822994884751097
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.42596133352344623
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4328017235657171
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4400574388964742
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4447848776135288
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.44731443581622443
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.4483291866390573
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.44678576273327053
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.43816767249609256
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.41120146204411867
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.35924855376742926
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.30189251635692926
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.2688531641033478
+[00:40:39] [Server thread/WARN]: Horse (vehicle of arockbet) moved wrongly! 0.2523510194823757
+[00:42:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[00:43:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10827ms or 216 ticks behind
+[00:43:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12086ms or 241 ticks behind
+[00:44:11] [Server thread/INFO]: <Mathdsi_Gamer> zzZZZZZzzZZZzzzZZ
+[00:44:16] [Server thread/INFO]: arockbet lost connection: Disconnected
+[00:44:16] [Server thread/INFO]: arockbet left the game
+[00:44:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20929ms or 418 ticks behind
+[00:44:28] [User Authenticator #26/INFO]: UUID of player arockbet is e2a5531a-c8f8-4890-9fee-d2282fd3a587
+[00:44:28] [Server thread/INFO]: arockbet[/179.156.165.239:60343] logged in with entity id 80763 at (-4134.699999988079, 62.16726681769348, 1079.0198296254325)
+[00:44:29] [Server thread/INFO]: arockbet joined the game
+[00:44:49] [Server thread/WARN]: Fetching packet for removed entity azt['Air'/80946, l='world', x=217.06, y=63.00, z=-50.17]
+[00:44:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16471ms or 329 ticks behind
+[00:45:04] [Server thread/INFO]: arockbet lost connection: Disconnected
+[00:45:04] [Server thread/INFO]: arockbet left the game
+[00:48:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:48:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[00:49:05] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[00:49:05] [Server thread/INFO]: ThiagoRX left the game
+[00:49:06] [Server thread/INFO]: Villager bcc['Librarian'/79884, l='world', x=123.34, y=22.08, z=-51.76] died, message: 'Librarian tried to swim in lava'
+[00:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9570ms or 191 ticks behind
+[00:49:16] [Server thread/INFO]: Saving the game (this may take a moment!)
+[00:49:18] [Server thread/INFO]: Saved the game
+[00:49:32] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
+[00:49:32] [Server thread/INFO]: Mathdsi_Gamer left the game
+[00:49:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4407ms or 88 ticks behind
+[00:49:44] [Server thread/INFO]: Stopping the server
+[00:49:44] [Server thread/INFO]: Stopping server
+[00:49:44] [Server thread/INFO]: Saving players
+[00:49:44] [Server thread/INFO]: Saving worlds
+[00:49:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[00:49:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:49:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[00:49:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:44] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[00:49:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:49:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:49:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:49:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
