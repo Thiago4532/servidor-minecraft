@@ -1,26 +1,334 @@
-[13:21:18] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[13:21:18] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[13:21:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[13:21:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:21:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:21:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:21:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:21:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:21:19] [Server thread/INFO]: Starting minecraft server version 20w17a
-[13:21:19] [Server thread/INFO]: Loading properties
-[13:21:19] [Server thread/INFO]: Default game type: SURVIVAL
-[13:21:19] [Server thread/INFO]: Generating keypair
-[13:21:20] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:21:20] [Server thread/INFO]: Using epoll channel type
-[13:21:20] [Server thread/INFO]: Preparing level "world"
-[13:21:21] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:21:57] [Server thread/INFO]: Loaded 6 recipes
-[13:21:57] [Server thread/INFO]: Loaded 908 advancements
-[13:21:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:22:00] [Server thread/INFO]: Preparing spawn area: 0%
-[13:22:00] [Server thread/INFO]: Preparing spawn area: 0%
-[13:22:00] [Server thread/INFO]: Preparing spawn area: 0%
-[13:22:00] [Server thread/INFO]: Preparing spawn area: 0%
-[13:22:00] [Server thread/INFO]: Preparing spawn area: 0%
-[13:22:01] [Server thread/INFO]: Time elapsed: 2617 ms
-[13:22:01] [Server thread/INFO]: Done (40.385s)! For help, type "help"
+[21:31:46] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[21:31:47] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[21:31:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[21:31:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:31:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:31:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:31:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:31:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:31:48] [Server thread/INFO]: Starting minecraft server version 20w17a
+[21:31:48] [Server thread/INFO]: Loading properties
+[21:31:48] [Server thread/INFO]: Default game type: SURVIVAL
+[21:31:48] [Server thread/INFO]: Generating keypair
+[21:31:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:31:49] [Server thread/INFO]: Using epoll channel type
+[21:31:49] [Server thread/INFO]: Preparing level "world"
+[21:31:49] [Server thread/INFO]: Reloading ResourceManager: Default
+[21:32:17] [Server thread/INFO]: Loaded 6 recipes
+[21:32:25] [Server thread/INFO]: Loaded 908 advancements
+[21:32:27] [User Authenticator #1/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
+[21:32:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:32:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:32:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:32:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:32:28] [Server thread/INFO]: Preparing spawn area: 0%
+[21:32:29] [Server thread/INFO]: Preparing spawn area: 0%
+[21:32:29] [Server thread/INFO]: Preparing spawn area: 82%
+[21:32:29] [Server thread/INFO]: Time elapsed: 2676 ms
+[21:32:29] [Server thread/INFO]: Done (40.075s)! For help, type "help"
+[21:32:29] [Server thread/INFO]: Starting GS4 status listener
+[21:32:29] [Server thread/INFO]: Thread Query Listener started
+[21:32:29] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[21:32:30] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:55381] logged in with entity id 234 at (1907.7487586444915, 65.97650109867322, 1311.521384830765)
+[21:32:30] [Server thread/INFO]: Mathdsi_Gamer joined the game
+[21:32:30] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 396144be-3198-4d3e-921c-e3b79b21d6de
+[21:32:33] [User Authenticator #2/INFO]: UUID of player neg0ney is dc0b9d51-d94f-4559-850f-9a3549017d89
+[21:32:33] [Server thread/INFO]: neg0ney[/131.161.135.13:52400] logged in with entity id 254 at (1642.0182514849457, 70.8500000178814, 1348.2648634888974)
+[21:32:33] [Server thread/INFO]: neg0ney joined the game
+[21:32:33] [Server thread/WARN]: Keeping entity minecraft:horse that already exists with UUID 28dae0f2-a39f-4b14-9dfe-97d05951da0b
+[21:32:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[21:32:54] [User Authenticator #3/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:32:55] [Server thread/INFO]: ThiagoRX[/192.168.0.66:57042] logged in with entity id 612 at (537.8140477907448, 68.0, 589.5091012597757)
+[21:32:55] [Server thread/INFO]: ThiagoRX joined the game
+[21:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[21:33:04] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:33:04] [Server thread/INFO]: ThiagoRX left the game
+[21:33:12] [User Authenticator #4/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:33:13] [Server thread/INFO]: ThiagoRX[/192.168.0.66:57047] logged in with entity id 1003 at (540.6574918368323, 70.0, 591.9871465833315)
+[21:33:13] [Server thread/INFO]: ThiagoRX joined the game
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -9.432082326930413,0.0,-4.029622780912632
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -9.919168583698138,0.0,-4.130151884375209
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -10.406280305898463,0.0,-4.230597852484152
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -10.89340565414409,0.0,-4.330999336523064
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -11.38053829341493,0.0,-4.431377018023113
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -11.86767483396784,0.0,-4.531741963259037
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -12.354813462019138,0.0,-4.632100093574081
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -12.841953207049073,0.0,-4.732454577360613
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -13.332646949248783,0.0,-4.809699800177441
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -13.824504571046191,0.0,-4.821142775627777
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -14.312971175155553,0.0,-4.775131543269708
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -14.798560631655391,0.0,-4.693981812394668
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -15.281854459277156,0.0,-4.591111480454401
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -15.540455350598222,0.0,-4.536067616846367
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -15.6788275315987,0.0,-4.5066147428858585
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -15.75286772680829,0.0,-4.490855097256599
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -16.00110206051272,0.0,-4.382674917417489
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -16.342217951946395,0.0,-4.224362853324465
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -16.72567583215482,0.0,-4.025214248123348
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -17.123061486309098,0.0,-3.790093219297887
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -17.521386344451685,0.0,-3.526483480209663
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -17.917943228135982,0.0,-3.244621931138454
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -18.31355410393735,0.0,-2.952994202447144
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -18.704924863135375,0.0,-2.651406007110154
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -19.091630914535244,0.0,-2.3415789733630845
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -19.475840973796494,0.0,-2.027343501447376
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -19.85871547742886,0.0,-1.7107491621625286
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -11.295831689892566,0.0,2.536045667538019
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -11.677609180505442,0.0,2.8545775586253512
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -12.059182065154346,0.0,3.17347082614765
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -12.440645469231413,0.0,3.4925574589951793
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -12.822050292437325,0.0,3.81174755777306
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -13.2034237701871,0.0,4.130993019107336
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -13.584780475608113,0.0,4.450268103841836
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -13.966128206490566,0.0,4.7695590394669125
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -14.346986270059915,-0.07683200149536162,5.089435583885461
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -14.420417971998404,-0.2274534586630068,5.276012046839014
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -14.420417971998404,-0.4489423104376016,5.45781784298174
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -14.420417971998404,-0.7384922093173572,5.635369158340154
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -14.438048514500224,0.0,5.808671703249502
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -14.645134194811817,0.0,6.093033818761114
+[21:33:15] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -14.957616985547247,0.0,6.35831689483598
+[21:33:16] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! -15.33211891435485,0.0,6.602723653927569
+[21:33:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3958ms or 79 ticks behind
+[21:33:49] [Server thread/INFO]: <neg0ney> 1363 1218
+[21:33:55] [Server thread/INFO]: <Mathdsi_Gamer> 2052 1287
+[21:34:44] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.2779941375974886
+[21:34:44] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.8519556768801522
+[21:34:44] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.48314375866084447
+[21:34:44] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.0395161695341812
+[21:34:44] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.5926079989478694
+[21:34:44] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.4717313894009294
+[21:34:44] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.0236288761457217
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.47330801321913896
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.0263878019720778
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.4731015933107301
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.0231146687260662
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.46879132338403906
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.0159459425549358
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.46732478016065215
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.46941557179161464
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.0213566603263189
+[21:34:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.7840728351357029
+[21:35:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.2936573563965794
+[21:35:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.6361090058076115
+[21:35:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.31159192281438663
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.720764968498088,2.35936431485176,7.911810413621424
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.0164725332813305,2.3389388651678757,7.982109641249281
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.29103852304047,2.242490261414318,8.068674473969395
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.542516758849615,2.073029019071228,8.171247233700342
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.773212962108801,1.8334464372619834,8.288145277468857
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.985375748206025,1.5265193197187443,8.417818609910228
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.181010432401536,1.1549145087977735,8.55888494511828
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.3619053548964075,1.093407939109099,8.710111560486666
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.582448634738739,1.093407939109099,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.732432734401527,1.093407939109099,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.813339917109488,1.093407939109099,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.843463072014856,1.093407939109099,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.827430912810996,1.093407939109099,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.767446049766704,1.093407939109099,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.655697091706543,1.093407939109099,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -7.474552504743087,1.093407939109099,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.951554826550137,1.7005383300168546,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.649282632466111,2.206794367297803,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.358002877624131,2.616170673470009,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.078859932511932,2.9325036840745042,8.761894157391907
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.814672229566895,3.1594779118765928,8.783883103969629
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.569259943333009,3.3006319630049745,8.828388734840246
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.381594265516242,3.35936431485176,8.893573602317929
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.391791991782611,3.3389388651678757,8.975865075054344
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.412831472106518,3.242490261414318,9.072597710973696
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.444108948692474,3.093407939109099,9.181908797192818
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.603178532930087,3.093407939109099,9.506462414584803
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.911778016137305,4.093407939109099,9.82729174397582
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.299977935887227,4.093407939109099,10.146749069682073
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.725478168723839,4.093407939109099,10.47316556955684
+[21:37:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3573ms or 71 ticks behind
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.1292220709099183
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.5973334379714288
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.0915592469982585
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.592103343294184
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 2.0020846108400288
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.2703819081309942
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.6850156822278728
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 2.1703338588586636
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.2570072920232178
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 1.8560774699067224
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -4.981601843209546,5.615220138822679,7.102099001161605
+[21:37:41] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.303792888579892,5.887708111004315,7.42337975223586
+[21:37:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.5975591760370662
+[21:37:45] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.9858687150979222
+[21:37:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3338ms or 66 ticks behind
+[21:38:07] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:38:07] [Server thread/INFO]: ThiagoRX left the game
+[21:38:10] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.3602482930207316
+[21:38:10] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.5830576630123687
+[21:38:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
+[21:38:33] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.2815710154793578
+[21:38:33] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.9763829376893227
+[21:38:33] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.5772691424115237
+[21:38:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
+[21:38:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[21:38:55] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.35164929009624757
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -1.8560294333506135,-4.227453458663007,9.16766263600789
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.06129255704127,-4.448942310437602,9.413014611463495
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.263321947874374,-4.738492209317357,9.65068632541329
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.452020211775789,-5.093407939109099,9.887440066399222
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.6288297763367154,-5.511101014130546,10.123375159072339
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.795036998520345,-5.989085452684037,10.358580181159141
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.951789051499418,-6.524973717900664,10.593134126278073
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.1001089843387035,-7.0,10.827107440940608
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.317665180333961,-7.0,11.283745842382586
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.518646043672561,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.703488195566024,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.760862519566899,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.760862519566899,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.760862519566899,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.760862519566899,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.760862519566899,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: neg0ney moved too quickly! -9.590171218893829,0.0,-3.5276210335118776
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.6696465029860974,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.5087537996703304,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.2970209365560095,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.0174065480657646,-7.0,11.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.6730589413716643,-7.0,11.688417930751939
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.2930389413829744,-7.0,11.969027534765246
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -1.9051135094864549,-7.0,12.312898343716142
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -1.5563834464517186,-7.0,12.724221230313333
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -1.2921076640604952,-7.0,13.200377813455134
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -1.2537638308313035,-7.0,13.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -1.4586173521138335,-7.0,13.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -1.8052544712259078,-7.0,13.504900339728465
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.232914706579777,-7.0,13.618705291239394
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.7041465828972377,-7.0,13.792940413121869
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.760862519566899,-7.0,14.091597408327516
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -2.9240355800977795,-6.0,14.456689345701534
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.175873738799737,-6.0,14.856245382243515
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.4755460868375394,-6.0,15.273926609627097
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.801008952968459,-6.076832001495362,15.70114806879269
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -3.9917451207079466,-6.227453458663007,15.95005673111632
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -4.178811751462945,-6.448942310437602,16.192027565301714
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -4.363437676404146,-6.738492209317357,16.427074465348824
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -4.546336169647702,-7.093407939109099,16.65552147412518
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -4.727694139259029,-7.511101014130546,16.878082699696733
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -4.907678269855296,-7.989085452684037,17.09539498365507
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.086437210782833,-8.0,17.30802626134755
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.428345317633557,-8.0,17.685972605126608
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.863788278222273,-8.0,17.976803856248807
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -6.353103167116615,-8.0,18.209263049097444
+[21:39:08] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -5.229058480671711,-3.9231679985046384,9.4794821903115
+[21:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3004ms or 60 ticks behind
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -8.00351395347161,1.0,6.426841590836602
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -8.120764158754127,1.0,6.980852447227562
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -8.229830562465622,1.0,7.540839975297104
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -8.444302967408248,1.0,8.051183379841405
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -8.715176022040623,1.0,8.534963203684129
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -9.016227939814144,2.0,9.00452938511421
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -9.333427965553028,2.0,9.46649012987882
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -9.659268521905688,2.0,9.924381357119728
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -9.989732453916076,2.0,10.380095066670947
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -10.32267026206091,2.0,10.83464362992163
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -10.656931792001387,2.0,11.28856874661733
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -10.991901619082455,3.0,11.742160269491706
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -11.32725044184167,3.0,12.195573292963445
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -11.66280205763178,3.0,12.648890804963685
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -11.998462183929632,3.0,13.102157210679707
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -12.334180372036599,3.0,13.555396270442088
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -12.669929627860029,4.0,14.008620697929928
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -13.005695507399196,4.0,14.461837295979421
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -13.341470281957072,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -13.677249816062158,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -14.013031896906114,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -14.348815340459169,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -14.684599513170724,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -15.0203840760405,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -15.356168847676145,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: neg0ney moved too quickly! -9.715564402657492,0.0,-2.4723288501452316
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -15.691953731018202,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -16.02773867413225,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -16.25373865894494,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -16.42099490144642,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -16.55681853866099,4.0,14.67287129166607
+[21:39:20] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved too quickly! -16.675823215485025,4.0,14.67287129166607
+[21:39:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5517ms or 110 ticks behind
+[21:39:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[21:40:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5276ms or 105 ticks behind
+[21:40:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3266ms or 65 ticks behind
+[21:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21:41:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[21:42:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[21:42:18] [Server thread/INFO]: <neg0ney> 638 1136
+[21:42:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[21:43:00] [User Authenticator #5/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:43:01] [Server thread/INFO]: ThiagoRX[/192.168.0.66:50030] logged in with entity id 8473 at (566.6347883313074, 38.0, 575.9992943427898)
+[21:43:01] [Server thread/INFO]: ThiagoRX joined the game
+[21:43:04] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:43:04] [Server thread/INFO]: ThiagoRX left the game
+[21:43:18] [User Authenticator #6/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:43:18] [Server thread/INFO]: ThiagoRX[/192.168.0.66:50044] logged in with entity id 8741 at (566.6347883313074, 38.0, 575.9992943427898)
+[21:43:18] [Server thread/INFO]: ThiagoRX joined the game
+[21:43:21] [Server thread/WARN]: neg0ney moved too quickly! -7.4466049208442655,0.20326439933128881,-7.083782024281163
+[21:43:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2782ms or 55 ticks behind
+[21:43:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8636ms or 172 ticks behind
+[21:44:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3058ms or 61 ticks behind
+[21:44:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[21:44:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
+[21:44:41] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:44:41] [Server thread/INFO]: ThiagoRX left the game
+[21:44:43] [User Authenticator #7/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:44:43] [Server thread/INFO]: ThiagoRX[/192.168.0.66:50054] logged in with entity id 9769 at (576.5078979519157, 38.875, 599.315316087075)
+[21:44:43] [Server thread/INFO]: ThiagoRX joined the game
+[21:44:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3436ms or 68 ticks behind
+[21:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[21:45:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[21:45:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3569ms or 71 ticks behind
+[21:46:25] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:46:25] [Server thread/INFO]: ThiagoRX left the game
+[21:46:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[21:46:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[21:47:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3641ms or 72 ticks behind
+[21:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[21:48:19] [User Authenticator #8/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:48:19] [Server thread/INFO]: ThiagoRX[/192.168.0.66:50320] logged in with entity id 12497 at (576.9744329260508, 48.0, 575.7677079435542)
+[21:48:19] [Server thread/INFO]: ThiagoRX joined the game
+[21:48:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[21:48:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21:49:08] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! 4.542943414145544,-3.4489423104376016,-8.538898114572248
+[21:49:08] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! 4.538049578790687,-3.738492209317357,-8.808787921360818
+[21:49:08] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! 4.533848464996542,-4.0,-9.07247971153538
+[21:49:08] [Server thread/WARN]: Horse (vehicle of neg0ney) moved too quickly! 4.5317339985920135,-4.0,-9.537680588578837
+[21:49:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3683ms or 73 ticks behind
+[21:49:22] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[21:49:22] [Server thread/INFO]: ThiagoRX left the game
+[21:49:23] [Server thread/INFO]: <neg0ney> 0 300
+[21:49:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[21:49:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4028ms or 80 ticks behind
+[21:50:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3722ms or 74 ticks behind
+[21:51:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[21:51:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[21:56:30] [Server thread/INFO]: <Mathdsi_Gamer> -600 900
+[21:56:35] [Server thread/INFO]: neg0ney lost connection: Disconnected
+[21:56:35] [Server thread/INFO]: neg0ney left the game
+[21:58:38] [User Authenticator #9/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[21:58:39] [Server thread/INFO]: ThiagoRX[/192.168.0.66:50396] logged in with entity id 18360 at (574.6115430789852, 48.7967356006687, 597.6929307556636)
+[21:58:39] [Server thread/INFO]: ThiagoRX joined the game
+[21:59:50] [Server thread/WARN]: Horse (vehicle of Mathdsi_Gamer) moved wrongly! 0.3668501837636313
+[22:07:47] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=538, y=67, z=502} fp{x=538, y=66, z=503}
+[22:07:47] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=538, y=67, z=502} fp{x=538, y=66, z=503}
+[22:07:47] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=538, y=67, z=502} fp{x=538, y=66, z=503}
+[22:08:27] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=536, y=68, z=498} fp{x=537, y=66, z=427}
+[22:08:27] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=536, y=68, z=498} fp{x=537, y=66, z=427}
+[22:08:27] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=536, y=68, z=498} fp{x=537, y=67, z=426}
+[22:08:28] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=536, y=68, z=498} fp{x=537, y=67, z=425}
+[22:08:28] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=536, y=68, z=498} fp{x=537, y=67, z=425}
+[22:08:28] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=536, y=68, z=498} fp{x=537, y=67, z=425}
+[22:11:49] [Server thread/INFO]: <ThiagoRX> alo
+[22:12:12] [Server thread/WARN]: Fetching packet for removed entity bab[''/25257, l='world', x=218.23, y=63.00, z=-48.21]
+[22:20:23] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
+[22:20:23] [Server thread/INFO]: Mathdsi_Gamer left the game
+[22:20:33] [User Authenticator #10/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
+[22:20:33] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:57810] logged in with entity id 28154 at (295.45532749753045, 10.0, -36.99522537600892)
+[22:20:33] [Server thread/INFO]: Mathdsi_Gamer joined the game
+[22:28:48] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:28:48] [Server thread/INFO]: save-all<--[HERE]
+[22:28:50] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:28:50] [Server thread/INFO]: Saved the game
