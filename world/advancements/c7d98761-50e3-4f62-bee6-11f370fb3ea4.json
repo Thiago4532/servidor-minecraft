@@ -610,6 +610,7 @@
       "minecraft:spider": "2020-04-14 19:31:28 -0300",
       "minecraft:creeper": "2020-04-07 21:14:06 -0300",
       "minecraft:evoker": "2020-04-23 19:35:46 -0300",
+      "minecraft:phantom": "2020-04-24 23:12:51 -0300",
       "minecraft:witch": "2020-04-07 20:11:03 -0300",
       "minecraft:cave_spider": "2020-04-16 19:54:06 -0300",
       "minecraft:silverfish": "2020-04-04 23:11:52 -0300",
@@ -1196,6 +1197,7 @@
       "minecraft:desert": "2020-04-23 18:52:18 -0300",
       "minecraft:birch_forest": "2020-04-16 18:03:07 -0300",
       "minecraft:warm_ocean": "2020-04-16 18:15:52 -0300",
+      "minecraft:deep_lukewarm_ocean": "2020-04-25 20:52:02 -0300",
       "minecraft:beach": "2020-04-16 18:15:10 -0300",
       "minecraft:dark_forest": "2020-04-16 18:06:28 -0300",
       "minecraft:river": "2020-04-04 22:49:36 -0300",
@@ -1203,6 +1205,7 @@
       "minecraft:birch_forest_hills": "2020-04-16 18:04:48 -0300",
       "minecraft:wooded_mountains": "2020-04-16 18:22:08 -0300",
       "minecraft:wooded_hills": "2020-04-16 18:05:39 -0300",
+      "minecraft:stone_shore": "2020-04-25 20:50:18 -0300",
       "minecraft:swamp": "2020-04-16 18:07:38 -0300",
       "minecraft:savanna": "2020-04-16 18:06:59 -0300",
       "minecraft:plains": "2020-04-04 22:15:21 -0300"
