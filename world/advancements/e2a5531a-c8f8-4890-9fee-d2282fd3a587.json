@@ -497,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2020-04-25 21:45:48 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2020-04-04 22:18:18 -0300"
@@ -572,6 +578,7 @@
       "minecraft:vindicator": "2020-04-23 19:33:15 -0300",
       "minecraft:spider": "2020-04-07 21:55:15 -0300",
       "minecraft:creeper": "2020-04-07 21:03:05 -0300",
+      "minecraft:phantom": "2020-04-25 21:19:03 -0300",
       "minecraft:witch": "2020-04-23 19:38:08 -0300",
       "minecraft:cave_spider": "2020-04-16 19:45:04 -0300",
       "minecraft:enderman": "2020-04-16 21:02:51 -0300",
@@ -892,6 +899,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2020-04-04 22:17:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2020-04-25 21:45:48 -0300"
     },
     "done": true
   },
@@ -2526,6 +2539,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2020-04-16 18:58:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2020-04-25 21:45:48 -0300"
     },
     "done": true
   },

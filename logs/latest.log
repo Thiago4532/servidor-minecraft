@@ -1,682 +1,204 @@
-[14:12:37] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
-[14:12:37] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
-[14:12:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[14:12:38] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:12:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:12:38] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:12:38] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:12:38] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:12:38] [Server thread/INFO]: Starting minecraft server version 20w17a
-[14:12:38] [Server thread/INFO]: Loading properties
-[14:12:38] [Server thread/INFO]: Default game type: SURVIVAL
-[14:12:39] [Server thread/INFO]: Generating keypair
-[14:12:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:12:39] [Server thread/INFO]: Using epoll channel type
-[14:12:39] [Server thread/INFO]: Preparing level "world"
-[14:12:40] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:12:46] [Server thread/INFO]: Loaded 6 recipes
-[14:13:15] [Server thread/INFO]: Loaded 908 advancements
-[14:13:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:13:18] [Server thread/INFO]: Preparing spawn area: 0%
-[14:13:18] [Server thread/INFO]: Preparing spawn area: 0%
-[14:13:18] [Server thread/INFO]: Preparing spawn area: 0%
-[14:13:18] [Server thread/INFO]: Preparing spawn area: 0%
-[14:13:19] [Server thread/INFO]: Preparing spawn area: 0%
-[14:13:19] [Server thread/INFO]: Time elapsed: 2579 ms
-[14:13:19] [Server thread/INFO]: Done (39.988s)! For help, type "help"
-[14:13:19] [Server thread/INFO]: Starting GS4 status listener
-[14:13:19] [Server thread/INFO]: Thread Query Listener started
-[14:13:19] [Server thread/INFO]: Starting remote control listener
-[14:13:19] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
-[14:13:20] [RCON Listener #2/INFO]: RCON running on 0.0.0.0:25575
-[14:13:20] [Server thread/INFO]: Thread RCON Listener started
-[14:57:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[14:57:56] [Server thread/INFO]: <--[HERE]
-[15:21:25] [User Authenticator #1/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
-[15:21:25] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:64835] logged in with entity id 351 at (184.29808734357033, 63.0, -36.89210989047615)
-[15:21:25] [Server thread/INFO]: Mathdsi_Gamer joined the game
-[15:21:33] [Server thread/INFO]: <Mathdsi_Gamer> é meme
-[15:21:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[15:21:43] [Server thread/INFO]: <--[HERE]
-[15:21:49] [Server thread/INFO]: [Server] ola
-[15:21:53] [Server thread/INFO]: <Mathdsi_Gamer> opa
-[15:22:23] [Server thread/INFO]: [Mathdsi_Gamer] ta fazendo oq?
-[15:22:29] [Server thread/INFO]: <Mathdsi_Gamer> nada
-[15:22:50] [Server thread/INFO]: [Boat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Rodolfo] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Hopper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Salmon] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Wolf] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Wolf] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Wolf] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Dinnerbone] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Spider] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Item Frame] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Armor Stand] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie Villager] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie Villager] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Arrow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Hopper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [String] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Wolf] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Arrow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [String] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [String] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Experience Orb] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Experience Orb] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Pig] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Wolf] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Chest] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Pig] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Cow] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Chest] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Chest] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Horse] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Pig] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Pig] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Chest] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Chest] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Donkey] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Pig] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Wolf] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [White Wool] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Raw Mutton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Drowned] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Chest] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Rabbit] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Chest] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Pig] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Pig] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Chest] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Fox] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Fox] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Fox] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Leash Knot] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bone] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Mathdsi_Gamer] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Enderman] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Spider] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Rotten Flesh] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Rotten Flesh] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Rotten Flesh] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Spider] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Spider] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Gunpowder] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Chicken] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Sheep] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Minecart with Chest] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Salmon] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Salmon] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Salmon] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Spider] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Skeleton] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Squid] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Salmon] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Salmon] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Bat] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Zombie] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Creeper] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: [Egg] daqui a pouco eu entro
-[15:22:50] [Server thread/INFO]: <Mathdsi_Gamer> acho q vou fazer uma farm de trigo
-[15:23:00] [Server thread/INFO]: <Mathdsi_Gamer> beleza salmao
-[15:23:12] [Server thread/INFO]: <Mathdsi_Gamer> e rotten flesh
-[15:23:26] [Server thread/INFO]: <Mathdsi_Gamer> a farm de trigo sendo semi automatica
-[15:23:32] [Server thread/INFO]: <Mathdsi_Gamer> nada automatico na vdd
-[15:23:36] [Server thread/INFO]: [Server] ok
-[15:23:48] [Server thread/INFO]: <Mathdsi_Gamer> so tem q plantar e apertar um botão
-[15:23:52] [Server thread/INFO]: [Server] assim que eu entrar bora fazer farm de villager
-[15:24:05] [Server thread/INFO]: <Mathdsi_Gamer> ;
-[15:24:10] [Server thread/INFO]: <Mathdsi_Gamer> ah sim
-[15:24:12] [Server thread/INFO]: <Mathdsi_Gamer> bele
-[15:24:20] [Server thread/INFO]: <Mathdsi_Gamer> to fazendo de trigo pra trocar mesmo
-[15:24:27] [Server thread/INFO]: <Mathdsi_Gamer> mas n sei se vai ser muito efeti
-[15:25:01] [Server thread/INFO]: <Mathdsi_Gamer> to pensando ainda no tamanho
-[15:25:06] [Server thread/INFO]: <Mathdsi_Gamer> efetivo*
-[15:26:05] [Server thread/INFO]: <Mathdsi_Gamer> man n sei pq to com muita tocha no inventario
-[15:26:23] [Server thread/INFO]: [Server] kkkkkkkkkkkkkk
-[15:26:38] [Server thread/INFO]: [Server] tu limpou todas as tochas?
-[15:26:49] [Server thread/INFO]: <Mathdsi_Gamer> ;
-[15:26:53] [Server thread/INFO]: <Mathdsi_Gamer> s
-[15:51:30] [Server thread/INFO]: [Server] como ta?
-[15:51:39] [Server thread/INFO]: <Mathdsi_Gamer> oq?
-[15:51:43] [Server thread/INFO]: [Server] a farm
-[15:51:43] [Server thread/INFO]: <Mathdsi_Gamer> ta sem lag
-[15:51:50] [Server thread/INFO]: <Mathdsi_Gamer> so limpei a area
-[15:51:59] [Server thread/INFO]: <Mathdsi_Gamer> to vendo jogo da mibr ai n to muito produtivo
-[16:04:29] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
-[16:04:29] [Server thread/INFO]: Mathdsi_Gamer left the game
-[16:04:29] [Server thread/WARN]: handleDisconnection() called twice
-[16:05:23] [User Authenticator #2/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
-[16:05:23] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:50789] logged in with entity id 7186 at (184.703903395148, 54.0, -39.480665853143535)
-[16:05:23] [Server thread/INFO]: Mathdsi_Gamer joined the game
-[16:15:41] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=159, y=63, z=31} fp{x=159, y=63, z=30}
-[16:18:15] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=155, y=63, z=34} fp{x=165, y=63, z=31}
-[16:18:15] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=155, y=63, z=34} fp{x=165, y=63, z=31}
-[16:18:15] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=155, y=63, z=34} fp{x=165, y=63, z=31}
-[16:27:18] [Server thread/INFO]: [Server] tu tinha caido?
-[16:27:21] [Server thread/INFO]: <Mathdsi_Gamer> sim]
-[16:28:08] [User Authenticator #3/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[16:28:09] [Server thread/INFO]: ThiagoRX[/192.168.0.66:57348] logged in with entity id 10616 at (198.75674171482308, 10.0, -30.69999998807906)
-[16:28:09] [Server thread/INFO]: ThiagoRX joined the game
-[16:28:16] [Server thread/INFO]: <ThiagoRX> mano
-[16:28:17] [Server thread/INFO]: <ThiagoRX> eu morri
-[16:28:18] [Server thread/INFO]: <ThiagoRX> wtf
-[16:28:19] [Server thread/INFO]: <ThiagoRX> twtf
-[16:28:20] [Server thread/INFO]: <ThiagoRX> wtf
-[16:28:21] [Server thread/INFO]: <Mathdsi_Gamer> sim
-[16:28:24] [Server thread/INFO]: <Mathdsi_Gamer> quando tu saiu
-[16:28:31] [Server thread/INFO]: <Mathdsi_Gamer> tuas coisas tao num bau na kmina
-[16:28:34] [Server thread/INFO]: <ThiagoRX> mano
-[16:28:35] [Server thread/INFO]: <ThiagoRX> ainda bem
-[16:28:36] [Server thread/INFO]: <ThiagoRX> quando eu morri
-[16:28:37] [Server thread/INFO]: <ThiagoRX> wtf
-[16:28:41] [Server thread/INFO]: <Mathdsi_Gamer> quando tu saiu
-[16:29:06] [Server thread/INFO]: <ThiagoRX> pra mim eu tava fora
-[16:29:08] [Server thread/INFO]: <ThiagoRX> do jogo
-[16:29:13] [Server thread/INFO]: <ThiagoRX> lol
-[16:29:20] [Server thread/INFO]: <Mathdsi_Gamer> tu saiu depois de morre
-[16:29:22] [Server thread/INFO]: <Mathdsi_Gamer> pra gente
-[16:29:45] [Server thread/INFO]: <Mathdsi_Gamer> to terminando a parte bruto
-[16:29:47] [Server thread/INFO]: <Mathdsi_Gamer> bruta
-[16:29:57] [Server thread/INFO]: <Mathdsi_Gamer> só to com um problema logistico de espaço
-[16:30:03] [Server thread/INFO]: <Mathdsi_Gamer> to pensando na forma de deixar mais bonito
-[16:30:05] [Server thread/INFO]: ThiagoRX was shot by Skeleton
-[16:30:08] [Server thread/INFO]: <Mathdsi_Gamer> e agora meu chat ta na frente
-[16:30:09] [Server thread/INFO]: <Mathdsi_Gamer> boa
-[16:30:38] [Server thread/INFO]: <ThiagoRX> qual parte?
-[16:30:41] [Server thread/INFO]: <ThiagoRX> meus itens/
-[16:31:02] [Server thread/INFO]: <Mathdsi_Gamer> alo
-[16:31:05] [Server thread/INFO]: <Mathdsi_Gamer> cade tu/
-[16:31:07] [Server thread/INFO]: <ThiagoRX> q
-[16:31:11] [Server thread/INFO]: <Mathdsi_Gamer> ta na mina?
-[16:31:16] [Server thread/INFO]: <ThiagoRX> to
-[16:31:17] [Server thread/INFO]: <Mathdsi_Gamer> esse
-[16:31:36] [Server thread/INFO]: <Mathdsi_Gamer> o law jogou?
-[16:31:44] [Server thread/INFO]: <ThiagoRX> acho q n
-[16:31:57] [Server thread/WARN]: Fetching packet for removed entity bab[''/11184, l='world', x=216.84, y=63.00, z=-48.86]
-[16:31:57] [Server thread/WARN]: Fetching packet for removed entity bab[''/11184, l='world', x=216.84, y=63.00, z=-48.86]
-[16:32:03] [Server thread/INFO]: <Mathdsi_Gamer> pensei numa forma ja
-[16:32:05] [Server thread/INFO]: <Mathdsi_Gamer> bo dormir
-[16:32:05] [Server thread/INFO]: <ThiagoRX> mano na moral eu fiquei em choque
-[16:32:07] [Server thread/INFO]: <ThiagoRX> que eu tinha morrido
-[16:32:10] [Server thread/INFO]: <ThiagoRX> bora disocrd
-[16:32:28] [Server thread/INFO]: <Mathdsi_Gamer> tto assistindo ao jogo da mibr
-[16:32:33] [Server thread/INFO]: <Mathdsi_Gamer> em call
-[16:32:37] [Server thread/INFO]: <Mathdsi_Gamer> terminar aqui eu vou
-[16:33:22] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[16:33:22] [Server thread/INFO]: ThiagoRX left the game
-[16:36:11] [User Authenticator #4/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[16:36:11] [Server thread/INFO]: ThiagoRX[/192.168.0.66:57398] logged in with entity id 11803 at (197.7223111519973, 63.1212968405392, -29.48987309215325)
-[16:36:11] [Server thread/INFO]: ThiagoRX joined the game
-[16:37:32] [Server thread/INFO]: <ThiagoRX> to assando uns packs de batat
-[16:38:44] [Server thread/INFO]: <ThiagoRX> ow
-[16:38:51] [Server thread/INFO]: <ThiagoRX> tu acha que vale a pena fazer a farm de villager
-[16:38:55] [Server thread/INFO]: <ThiagoRX> perto de casa?
-[16:38:56] [Server thread/INFO]: <ThiagoRX> tipo
-[16:39:02] [Server thread/INFO]: <ThiagoRX> vai lotar de villager rapido pra caralho se for perto demais
-[16:39:04] [Server thread/INFO]: <Mathdsi_Gamer> perto quanto?
-[16:39:14] [Server thread/INFO]: <Mathdsi_Gamer> tem problema de bad omens tmb ne
-[16:39:15] [Server thread/INFO]: <ThiagoRX> to pensando em fazer em cima da montanha agora
-[16:39:22] [Server thread/INFO]: <Mathdsi_Gamer> pode ser
-[16:39:22] [Server thread/INFO]: <ThiagoRX> so beber leite
-[16:39:29] [Server thread/INFO]: <Mathdsi_Gamer> qualquer coisa a gente faz genocidio
-[16:47:46] [Server thread/INFO]: <ThiagoRX> ow
-[16:47:49] [Server thread/INFO]: <ThiagoRX> vou no criativo ja volto
-[16:47:50] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[16:47:50] [Server thread/INFO]: ThiagoRX left the game
-[16:54:04] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=165, y=61, z=32} fp{x=165, y=60, z=33}
-[16:55:14] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=167, y=63, z=40} fp{x=166, y=63, z=41}
-[16:59:02] [Server thread/WARN]: Fetching packet for removed entity bab[''/15591, l='world', x=218.49, y=63.00, z=-49.68]
-[17:05:02] [Server thread/WARN]: Fetching packet for removed entity bab[''/16381, l='world', x=218.84, y=63.00, z=-47.23]
-[17:14:49] [Server thread/WARN]: Fetching packet for removed entity bab[''/17807, l='world', x=217.38, y=63.00, z=-50.17]
-[17:31:01] [Server thread/INFO]: Mathdsi_Gamer lost connection: Timed out
-[17:31:01] [Server thread/INFO]: Mathdsi_Gamer left the game
-[17:32:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@4ed60306[id=<null>,name=Mathdsi_Gamer,properties={},legacy=false] (/177.130.193.159:55234) lost connection: Disconnected
-[17:34:09] [User Authenticator #5/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
-[17:34:09] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:55415] logged in with entity id 19982 at (202.138628173651, 63.0, -21.607893564597727)
-[17:34:09] [Server thread/INFO]: Mathdsi_Gamer joined the game
-[17:34:10] [Server thread/WARN]: Fetching packet for removed entity bab[''/19983, l='world', x=217.93, y=63.00, z=-47.86]
-[17:35:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[17:49:17] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
-[17:49:17] [Server thread/INFO]: Mathdsi_Gamer left the game
-[17:49:27] [User Authenticator #6/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
-[17:49:27] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:56138] logged in with entity id 22284 at (195.53293842200557, 49.0, -38.03722562210992)
-[17:49:27] [Server thread/INFO]: Mathdsi_Gamer joined the game
-[17:57:38] [Server thread/INFO]: Mathdsi_Gamer lost connection: Timed out
-[17:57:38] [Server thread/INFO]: Mathdsi_Gamer left the game
-[17:57:39] [User Authenticator #7/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
-[17:57:39] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:56517] logged in with entity id 23646 at (195.6451468771984, 49.0, -40.99935679316071)
-[17:57:39] [Server thread/INFO]: Mathdsi_Gamer joined the game
-[18:04:41] [Server thread/WARN]: Mathdsi_Gamer moved too quickly! 0.0,10.465000184059122,0.0
-[18:09:10] [Server thread/INFO]: Mathdsi_Gamer lost connection: Timed out
-[18:09:10] [Server thread/INFO]: Mathdsi_Gamer left the game
-[18:09:11] [User Authenticator #8/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
-[18:09:11] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:57073] logged in with entity id 25826 at (26.189431950236603, 32.33742802683347, 92.83595165892399)
-[18:09:11] [Server thread/INFO]: Mathdsi_Gamer joined the game
-[18:10:17] [User Authenticator #9/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:10:17] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58182] logged in with entity id 26131 at (186.64823336754316, 54.0, -40.69286514074538)
-[18:10:17] [Server thread/INFO]: ThiagoRX joined the game
-[18:10:20] [Server thread/INFO]: <Mathdsi_Gamer> aksdhgf
-[18:10:22] [Server thread/INFO]: <ThiagoRX> oi
-[18:10:24] [Server thread/INFO]: <Mathdsi_Gamer> oi
-[18:10:27] [Server thread/INFO]: <Mathdsi_Gamer> terminei a farm
-[18:10:29] [Server thread/INFO]: <Mathdsi_Gamer> so ta feia
-[18:12:20] [Server thread/INFO]: <ThiagoRX> ow
-[18:12:24] [Server thread/INFO]: <ThiagoRX> dessa madeira que tu fez a casa
-[18:12:26] [Server thread/INFO]: <ThiagoRX> ainda tem ela?
-[18:12:28] [Server thread/INFO]: <Mathdsi_Gamer> n sei
-[18:12:30] [Server thread/INFO]: <Mathdsi_Gamer> acho q n
-[18:12:56] [Server thread/INFO]: <ThiagoRX> vou fazer uma reforma aqui na parte de baixo
-[18:13:01] [Server thread/INFO]: <Mathdsi_Gamer> beleza
-[18:13:27] [Server thread/INFO]: <Mathdsi_Gamer> to pegando blackstone
-[18:13:33] [Server thread/INFO]: <Mathdsi_Gamer> e explorando
-[18:13:36] [Server thread/INFO]: <Mathdsi_Gamer> blackstone é perfeito
-[18:13:56] [Server thread/INFO]: <Mathdsi_Gamer> agr vou jogar um cs
-[18:13:58] [Server thread/INFO]: <Mathdsi_Gamer> ja volto
-[18:14:06] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
-[18:14:06] [Server thread/INFO]: Mathdsi_Gamer left the game
-[18:14:09] [Server thread/WARN]: Fetching packet for removed entity bab[''/27300, l='world', x=216.21, y=63.00, z=-49.01]
-[18:31:12] [Server thread/WARN]: Fetching packet for removed entity bab[''/29587, l='world', x=217.78, y=63.00, z=-48.77]
-[18:43:11] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:43:11] [Server thread/INFO]: ThiagoRX left the game
-[18:44:16] [User Authenticator #10/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:44:16] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58234] logged in with entity id 31175 at (189.07657680459363, 44.125, -38.60885730643169)
-[18:44:16] [Server thread/INFO]: ThiagoRX joined the game
-[18:45:54] [Server thread/WARN]: Fetching packet for removed entity bab[''/31395, l='world', x=215.93, y=63.00, z=-49.99]
-[18:49:56] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:49:56] [Server thread/INFO]: ThiagoRX left the game
-[18:50:19] [User Authenticator #11/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:50:19] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58252] logged in with entity id 31895 at (187.01181363941296, 44.0, -39.05852105734179)
-[18:50:19] [Server thread/INFO]: ThiagoRX joined the game
-[18:51:27] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:51:27] [Server thread/INFO]: ThiagoRX left the game
-[18:51:45] [User Authenticator #12/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:51:45] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58274] logged in with entity id 32033 at (186.68790542224446, 44.0, -40.50720425850499)
-[18:51:45] [Server thread/INFO]: ThiagoRX joined the game
-[18:52:33] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:52:33] [Server thread/INFO]: ThiagoRX left the game
-[18:52:52] [User Authenticator #13/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:52:52] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58292] logged in with entity id 32160 at (190.69999998807907, 45.0, -39.26646861004828)
-[18:52:52] [Server thread/INFO]: ThiagoRX joined the game
-[18:53:03] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:53:03] [Server thread/INFO]: ThiagoRX left the game
-[18:53:18] [User Authenticator #14/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:53:18] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58306] logged in with entity id 32187 at (187.39187068562492, 44.0, -37.76974824952829)
-[18:53:18] [Server thread/INFO]: ThiagoRX joined the game
-[18:53:44] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:53:44] [Server thread/INFO]: ThiagoRX left the game
-[18:54:10] [User Authenticator #15/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:54:10] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58320] logged in with entity id 32261 at (189.7943998448822, 44.125, -37.89839468063691)
-[18:54:10] [Server thread/INFO]: ThiagoRX joined the game
-[18:55:07] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:55:07] [Server thread/INFO]: ThiagoRX left the game
-[18:55:29] [User Authenticator #16/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:55:29] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58340] logged in with entity id 32376 at (188.68363189100216, 45.0, -39.422466817055934)
-[18:55:29] [Server thread/INFO]: ThiagoRX joined the game
-[18:57:33] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[18:57:33] [Server thread/INFO]: ThiagoRX left the game
-[18:57:38] [User Authenticator #17/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[18:57:38] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58352] logged in with entity id 32645 at (188.24809774549584, 44.0, -36.39379426087197)
-[18:57:38] [Server thread/INFO]: ThiagoRX joined the game
-[19:03:28] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[19:03:28] [Server thread/INFO]: ThiagoRX left the game
-[19:03:46] [User Authenticator #18/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[19:03:46] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58372] logged in with entity id 33376 at (188.452652859007, 44.0, -40.69999998807907)
-[19:03:46] [Server thread/INFO]: ThiagoRX joined the game
-[19:14:07] [Server thread/WARN]: Fetching packet for removed entity bab[''/34556, l='world', x=217.99, y=63.00, z=-49.62]
-[19:23:59] [Server thread/WARN]: Fetching packet for removed entity bab[''/35671, l='world', x=217.76, y=63.00, z=-49.71]
-[19:32:12] [Server thread/WARN]: Fetching packet for removed entity bab[''/36697, l='world', x=218.02, y=63.00, z=-47.49]
-[19:47:51] [Server thread/WARN]: Fetching packet for removed entity bab[''/38734, l='world', x=217.89, y=63.00, z=-49.31]
-[19:57:44] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
-[19:57:44] [Server thread/INFO]: ThiagoRX left the game
-[20:00:34] [User Authenticator #19/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
-[20:00:34] [Server thread/INFO]: ThiagoRX[/192.168.0.66:58476] logged in with entity id 39896 at (190.99614490658922, 49.5, -38.986491125707495)
-[20:00:34] [Server thread/INFO]: ThiagoRX joined the game
-[20:00:38] [User Authenticator #20/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
-[20:00:38] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:52212] logged in with entity id 39906 at (151.9958432181971, 44.0, 467.04060921741075)
-[20:00:38] [Server thread/INFO]: Mathdsi_Gamer joined the game
-[20:14:59] [Server thread/WARN]: Fetching packet for removed entity bab[''/43521, l='world', x=217.94, y=63.00, z=-50.17]
-[20:14:59] [Server thread/WARN]: Fetching packet for removed entity bab[''/43521, l='world', x=217.94, y=63.00, z=-50.17]
-[20:29:21] [Server thread/WARN]: Fetching packet for removed entity bab[''/45962, l='world', x=216.29, y=63.00, z=-50.17]
-[20:44:11] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
-[20:44:11] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
-[20:44:11] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
-[20:44:11] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
-[20:44:11] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
-[20:44:11] [Server thread/WARN]: Error while deserializing minecraft:normal_tree
-[20:49:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[20:49:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:50:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
-[20:50:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[20:50:56] [Server thread/WARN]: Fetching packet for removed entity bab[''/54577, l='world', x=216.47, y=63.00, z=-47.38]
-[20:51:06] [Server thread/WARN]: ThiagoRX moved too quickly! 1.388217973915289,-11.08127642436952,-0.542653354141521
-[20:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
-[20:51:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3073ms or 61 ticks behind
-[20:51:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3259ms or 65 ticks behind
-[20:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[20:52:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[20:53:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[20:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
-[20:54:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[20:54:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
-[20:55:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[20:55:17] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
-[20:55:17] [Server thread/INFO]: Mathdsi_Gamer left the game
-[20:55:33] [User Authenticator #22/INFO]: UUID of player arockbet is e2a5531a-c8f8-4890-9fee-d2282fd3a587
-[20:55:33] [User Authenticator #21/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
-[20:55:33] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:54959] logged in with entity id 58044 at (223.92330308186808, 10.0, -46.378216770070125)
-[20:55:33] [Server thread/INFO]: Mathdsi_Gamer joined the game
-[20:55:34] [Server thread/INFO]: arockbet[/179.156.165.239:56941] logged in with entity id 58045 at (-199.47647656047613, 69.0, -107.72170952145304)
-[20:55:34] [Server thread/INFO]: arockbet joined the game
-[20:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
-[20:55:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8167ms or 163 ticks behind
-[20:56:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[20:56:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[20:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[20:57:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
-[20:58:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
-[20:58:06] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=-32, y=76, z=-110} fp{x=-32, y=75, z=-111}
-[20:58:06] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=-32, y=76, z=-110} fp{x=-32, y=75, z=-111}
-[20:58:06] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=-32, y=76, z=-110} fp{x=-32, y=75, z=-111}
-[20:58:13] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=-34, y=73, z=-104} fp{x=-34, y=72, z=-103}
-[20:58:32] [Server thread/INFO]: Saving the game (this may take a moment!)
-[20:58:34] [Server thread/INFO]: Saved the game
-[20:58:34] [Server thread/INFO]: Stopping the server
-[20:58:34] [Server thread/INFO]: Stopping server
-[20:58:34] [Server thread/INFO]: Saving players
-[20:58:34] [Server thread/INFO]: Saving worlds
-[20:58:34] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[20:59:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:59:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[20:59:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:59:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[21:00:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:00:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:00:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:00:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:00:15] [Server thread/INFO]: Thread RCON Listener stopped
-[21:00:15] [Server thread/INFO]: Thread Query Listener stopped
+[03:59:45] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[03:59:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[03:59:46] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:59:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:59:46] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:59:46] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:59:46] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:59:46] [Server thread/INFO]: Starting minecraft server version 20w17a
+[03:59:46] [Server thread/INFO]: Loading properties
+[03:59:46] [Server thread/INFO]: Default game type: SURVIVAL
+[03:59:46] [Server thread/INFO]: Generating keypair
+[03:59:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:59:47] [Server thread/INFO]: Using epoll channel type
+[03:59:47] [Server thread/INFO]: Preparing level "world"
+[03:59:47] [Server thread/INFO]: Reloading ResourceManager: Default
+[04:00:24] [Server thread/INFO]: Loaded 6 recipes
+[04:00:24] [Server thread/INFO]: Loaded 908 advancements
+[04:00:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:00:26] [Server thread/INFO]: Preparing spawn area: 0%
+[04:00:26] [Server thread/INFO]: Preparing spawn area: 0%
+[04:00:26] [Server thread/INFO]: Preparing spawn area: 0%
+[04:00:26] [Server thread/INFO]: Preparing spawn area: 0%
+[04:00:27] [Server thread/INFO]: Preparing spawn area: 0%
+[04:00:27] [Server thread/INFO]: Preparing spawn area: 47%
+[04:00:27] [Server thread/INFO]: Time elapsed: 2811 ms
+[04:00:27] [Server thread/INFO]: Done (40.514s)! For help, type "help"
+[04:00:27] [Server thread/INFO]: Starting GS4 status listener
+[04:00:27] [Server thread/INFO]: Thread Query Listener started
+[04:00:27] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[14:22:54] [User Authenticator #1/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[14:22:55] [Server thread/INFO]: ThiagoRX[/192.168.0.66:54584] logged in with entity id 363 at (81.20792764278413, 187.0, 5.53171050364424)
+[14:22:55] [Server thread/INFO]: ThiagoRX joined the game
+[14:32:45] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[14:32:45] [Server thread/INFO]: ThiagoRX left the game
+[15:55:10] [User Authenticator #2/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
+[15:55:10] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:59689] logged in with entity id 1853 at (155.73225801378885, 61.0, 28.80043736891431)
+[15:55:10] [Server thread/INFO]: Mathdsi_Gamer joined the game
+[15:59:32] [Server thread/WARN]: Fetching packet for removed entity bab[''/2469, l='world', x=218.83, y=63.00, z=-48.78]
+[16:00:06] [Server thread/WARN]: Fetching packet for removed entity bab[''/2587, l='world', x=215.87, y=63.00, z=-49.56]
+[16:00:09] [Server thread/INFO]: <Mathdsi_Gamer> 5
+[16:02:10] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
+[16:02:10] [Server thread/INFO]: Mathdsi_Gamer left the game
+[16:57:29] [User Authenticator #3/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
+[16:57:29] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:62210] logged in with entity id 2842 at (192.7457174984148, 49.0, -38.64195816267504)
+[16:57:29] [Server thread/INFO]: Mathdsi_Gamer joined the game
+[16:59:58] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
+[16:59:58] [Server thread/INFO]: Mathdsi_Gamer left the game
+[17:02:14] [User Authenticator #4/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
+[17:02:14] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:62618] logged in with entity id 3411 at (24.402618480726623, 245.5, 1.3313182311158753)
+[17:02:14] [Server thread/INFO]: Mathdsi_Gamer joined the game
+[17:21:44] [Server thread/WARN]: Fetching packet for removed entity bab[''/10388, l='world', x=216.12, y=63.00, z=-48.41]
+[17:28:51] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=119, y=11, z=-81} fp{x=118, y=10, z=-81}
+[17:31:13] [User Authenticator #5/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[17:31:13] [Server thread/INFO]: ThiagoRX[/192.168.0.66:41924] logged in with entity id 12464 at (203.07115805287415, 63.0, -21.56433604658885)
+[17:31:13] [Server thread/INFO]: ThiagoRX joined the game
+[17:31:16] [Server thread/INFO]: <Mathdsi_Gamer> alo?
+[17:31:44] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[17:31:44] [Server thread/INFO]: ThiagoRX left the game
+[17:31:48] [User Authenticator #6/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[17:31:48] [Server thread/INFO]: ThiagoRX[/192.168.0.66:41938] logged in with entity id 12643 at (203.07115805287415, 63.0, -21.56433604658885)
+[17:31:48] [Server thread/INFO]: ThiagoRX joined the game
+[17:31:55] [Server thread/INFO]: <Mathdsi_Gamer> alo?
+[17:32:26] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[17:32:26] [Server thread/INFO]: ThiagoRX left the game
+[17:32:41] [User Authenticator #7/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[17:32:41] [Server thread/INFO]: ThiagoRX[/192.168.0.66:41946] logged in with entity id 12944 at (203.07115805287415, 63.0, -21.56433604658885)
+[17:32:41] [Server thread/INFO]: ThiagoRX joined the game
+[17:32:41] [Server thread/WARN]: Fetching packet for removed entity bab[''/12940, l='world', x=115.86, y=10.88, z=-83.88]
+[17:33:00] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[17:33:00] [Server thread/INFO]: ThiagoRX left the game
+[17:33:30] [User Authenticator #8/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[17:33:30] [Server thread/INFO]: ThiagoRX[/192.168.0.66:42014] logged in with entity id 13190 at (203.07115805287415, 63.0, -21.56433604658885)
+[17:33:30] [Server thread/INFO]: ThiagoRX joined the game
+[17:34:22] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[17:34:22] [Server thread/INFO]: ThiagoRX left the game
+[17:42:59] [User Authenticator #9/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[17:42:59] [Server thread/INFO]: ThiagoRX[/192.168.0.66:42040] logged in with entity id 15366 at (193.08886292435477, 63.0, -30.214291420726255)
+[17:42:59] [Server thread/INFO]: ThiagoRX joined the game
+[17:52:11] [Server thread/INFO]: ThiagoRX was shot by Skeleton
+[17:54:01] [Server thread/INFO]: ThiagoRX was shot by Mathdsi_Gamer
+[18:17:53] [Server thread/INFO]: <ThiagoRX> aqui oh
+[18:17:58] [Server thread/INFO]: <ThiagoRX> naot udo
+[18:20:22] [Server thread/INFO]: <ThiagoRX> tem comida?
+[18:20:28] [Server thread/INFO]: <Mathdsi_Gamer> here
+[18:22:11] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=246, y=93, z=-137} fp{x=245, y=94, z=-137}
+[18:22:18] [Server thread/WARN]: Fetching packet for removed entity bab[''/24430, l='world', x=215.91, y=63.00, z=-49.04]
+[18:22:18] [Server thread/WARN]: Fetching packet for removed entity bab[''/24430, l='world', x=215.91, y=63.00, z=-49.04]
+[18:33:26] [User Authenticator #10/INFO]: UUID of player PassocaDoFuturo is 94dc8dc3-33c7-446b-8da4-963a8e276f04
+[18:33:26] [Server thread/INFO]: PassocaDoFuturo[/191.34.232.88:49820] logged in with entity id 26805 at (162.81095633059724, 64.0, 20.061088212571253)
+[18:33:26] [Server thread/INFO]: PassocaDoFuturo joined the game
+[18:35:58] [Server thread/WARN]: Fetching packet for removed entity bab[''/27428, l='world', x=218.23, y=63.00, z=-48.38]
+[18:35:58] [Server thread/WARN]: Fetching packet for removed entity bab[''/27428, l='world', x=218.23, y=63.00, z=-48.38]
+[18:35:58] [Server thread/WARN]: Fetching packet for removed entity bab[''/27428, l='world', x=218.23, y=63.00, z=-48.38]
+[18:39:03] [Server thread/INFO]: PassocaDoFuturo has made the advancement [Sweet Dreams]
+[18:41:47] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=247, y=93, z=-129} fp{x=248, y=91, z=-130}
+[18:41:47] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=247, y=93, z=-129} fp{x=248, y=91, z=-130}
+[18:41:47] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=247, y=93, z=-129} fp{x=248, y=91, z=-130}
+[18:41:49] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=250, y=95, z=-127} fp{x=251, y=94, z=-125}
+[18:42:01] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=252, y=98, z=-129} fp{x=253, y=96, z=-131}
+[18:42:03] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=251, y=95, z=-128} fp{x=252, y=94, z=-127}
+[18:42:03] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=251, y=96, z=-127} fp{x=252, y=94, z=-127}
+[18:42:03] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=251, y=94, z=-126} fp{x=252, y=94, z=-127}
+[18:42:04] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=253, y=94, z=-127} fp{x=253, y=94, z=-126}
+[18:43:04] [Server thread/WARN]: Fetching packet for removed entity bab[''/28740, l='world', x=215.81, y=63.00, z=-48.85]
+[18:43:04] [Server thread/WARN]: Fetching packet for removed entity bab[''/28740, l='world', x=215.81, y=63.00, z=-48.85]
+[18:43:04] [Server thread/WARN]: Fetching packet for removed entity bab[''/28740, l='world', x=215.81, y=63.00, z=-48.85]
+[18:43:19] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=248, y=95, z=-139} fp{x=248, y=93, z=-138}
+[18:43:19] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=248, y=95, z=-139} fp{x=248, y=93, z=-138}
+[18:43:19] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=248, y=95, z=-139} fp{x=248, y=93, z=-138}
+[18:54:18] [Server thread/INFO]: PassocaDoFuturo was shot by Skeleton
+[18:54:59] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[18:54:59] [Server thread/INFO]: ThiagoRX left the game
+[18:55:07] [User Authenticator #11/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[18:55:07] [Server thread/INFO]: ThiagoRX[/192.168.0.66:42298] logged in with entity id 31306 at (234.17995813280996, 80.0, -112.67288646444422)
+[18:55:07] [Server thread/INFO]: ThiagoRX joined the game
+[18:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=238, y=79, z=-109} fp{x=238, y=80, z=-109}
+[19:02:38] [Server thread/WARN]: Fetching packet for removed entity bab[''/33235, l='world', x=216.88, y=63.00, z=-49.56]
+[19:02:38] [Server thread/WARN]: Fetching packet for removed entity bab[''/33235, l='world', x=216.88, y=63.00, z=-49.56]
+[19:02:38] [Server thread/WARN]: Fetching packet for removed entity bab[''/33235, l='world', x=216.88, y=63.00, z=-49.56]
+[19:03:56] [Server thread/INFO]: ThiagoRX has made the advancement [Into Fire]
+[19:04:10] [Server thread/WARN]: Fetching packet for removed entity bab[''/33563, l='world', x=218.65, y=63.00, z=-49.13]
+[19:04:10] [Server thread/WARN]: Fetching packet for removed entity bab[''/33563, l='world', x=218.65, y=63.00, z=-49.13]
+[19:04:10] [Server thread/WARN]: Fetching packet for removed entity bab[''/33563, l='world', x=218.65, y=63.00, z=-49.13]
+[19:04:58] [Server thread/INFO]: ThiagoRX has made the advancement [Local Brewery]
+[19:07:35] [Server thread/INFO]: PassocaDoFuturo has made the advancement [Take Aim]
+[19:07:51] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=241, y=85, z=-118} fp{x=247, y=82, z=-112}
+[19:07:51] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=241, y=85, z=-118} fp{x=247, y=82, z=-112}
+[19:08:25] [Server thread/WARN]: Fetching packet for removed entity bab[''/34348, l='world', x=215.32, y=63.00, z=-49.46]
+[19:08:25] [Server thread/WARN]: Fetching packet for removed entity bab[''/34348, l='world', x=215.32, y=63.00, z=-49.46]
+[19:08:25] [Server thread/WARN]: Fetching packet for removed entity bab[''/34348, l='world', x=215.32, y=63.00, z=-49.46]
+[19:10:51] [Server thread/INFO]: ThiagoRX has reached the goal [Zombie Doctor]
+[19:11:02] [Server thread/INFO]: ThiagoRX was slain by Zombie Villager
+[19:17:32] [Server thread/INFO]: <ThiagoRX> zzzzzzzz
+[19:18:21] [Server thread/INFO]: PassocaDoFuturo was blown up by Creeper
+[19:18:23] [Server thread/FATAL]: Error executing task on Server
+java.lang.NullPointerException: null
+	at yk.b(SourceFile:201) ~[server.jar:?]
+	at yd.a(SourceFile:939) ~[server.jar:?]
+	at yp.a(SourceFile:479) ~[server.jar:?]
+	at zj.a(SourceFile:860) ~[server.jar:?]
+	at ro.a(SourceFile:122) ~[server.jar:?]
+	at ro$a.a(SourceFile:56) ~[server.jar:?]
+	at nf.a(SourceFile:21) ~[server.jar:?]
+	at um.run(SourceFile:18) ~[server.jar:?]
+	at alp.c(SourceFile:144) [server.jar:?]
+	at alt.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:716) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:149) [server.jar:?]
+	at alp.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:698) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:692) [server.jar:?]
+	at alp.bk(SourceFile:103) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:676) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:629) [server.jar:?]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[19:23:44] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=238, y=76, z=-90} fp{x=238, y=75, z=-91}
+[19:23:44] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=238, y=76, z=-90} fp{x=238, y=75, z=-91}
+[19:23:44] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=238, y=76, z=-90} fp{x=238, y=75, z=-91}
+[19:28:18] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[19:28:18] [Server thread/INFO]: ThiagoRX left the game
+[19:32:35] [Server thread/INFO]: PassocaDoFuturo has made the advancement [A Seedy Place]
+[19:40:34] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
+[19:40:34] [Server thread/INFO]: Mathdsi_Gamer left the game
+[19:45:42] [Server thread/WARN]: Fetching packet for removed entity bab[''/41378, l='world', x=219.17, y=63.00, z=-48.29]
+[19:52:33] [User Authenticator #12/INFO]: UUID of player ThiagoRX is c7d98761-50e3-4f62-bee6-11f370fb3ea4
+[19:52:33] [Server thread/INFO]: ThiagoRX[/192.168.0.66:42726] logged in with entity id 42635 at (227.64832701932247, 78.0, -76.72290992167092)
+[19:52:33] [Server thread/INFO]: ThiagoRX joined the game
+[19:54:38] [Server thread/INFO]: PassocaDoFuturo fell from a high place
+[19:56:55] [Server thread/INFO]: ThiagoRX fell from a high place
+[20:06:23] [Server thread/INFO]: PassocaDoFuturo was shot by ThiagoRX
+[20:06:39] [User Authenticator #13/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
+[20:06:39] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:53507] logged in with entity id 45228 at (198.98886252018917, 63.0, -41.377252430844585)
+[20:06:39] [Server thread/INFO]: Mathdsi_Gamer joined the game
+[20:06:47] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
+[20:06:47] [Server thread/INFO]: Mathdsi_Gamer left the game
+[20:06:52] [User Authenticator #14/INFO]: UUID of player Mathdsi_Gamer is 7cd6894e-5a13-4a96-b76f-7598b305a9d8
+[20:06:52] [Server thread/INFO]: Mathdsi_Gamer[/177.130.193.159:53526] logged in with entity id 45265 at (197.81338979213206, 63.0, -43.42902606911956)
+[20:06:52] [Server thread/INFO]: Mathdsi_Gamer joined the game
+[20:07:56] [Server thread/WARN]: Mismatch in destroy block pos: fp{x=214, y=77, z=-97} fp{x=213, y=78, z=-97}
+[20:09:40] [Server thread/INFO]: PassocaDoFuturo was shot by ThiagoRX
+[20:10:47] [Server thread/INFO]: PassocaDoFuturo lost connection: Disconnected
+[20:10:47] [Server thread/INFO]: PassocaDoFuturo left the game
+[20:10:48] [Server thread/INFO]: ThiagoRX lost connection: Disconnected
+[20:10:48] [Server thread/INFO]: ThiagoRX left the game
+[20:10:52] [Server thread/INFO]: Mathdsi_Gamer lost connection: Disconnected
+[20:10:52] [Server thread/INFO]: Mathdsi_Gamer left the game
+[20:10:57] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:10:57] [Server thread/INFO]: [A[A[A[A[A	stop<--[HERE]
+[20:10:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[20:10:59] [Server thread/INFO]: top<--[HERE]
+[20:10:59] [Server thread/INFO]: Stopping the server
+[20:10:59] [Server thread/INFO]: Stopping server
+[20:10:59] [Server thread/INFO]: Saving players
+[20:10:59] [Server thread/INFO]: Saving worlds
+[20:10:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:10:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:10:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:10:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:10:59] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:11:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:11:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:11:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:11:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:11:07] [Server thread/INFO]: Thread Query Listener stopped
