@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-04-29 02:18:14 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-04-19 02:55:55 -0300"
@@ -671,11 +677,13 @@
       "minecraft:blaze": "2020-04-25 21:08:46 -0300",
       "minecraft:skeleton": "2020-04-04 22:40:22 -0300",
       "minecraft:ghast": "2020-04-25 22:11:35 -0300",
+      "minecraft:hoglin": "2020-04-29 02:04:50 -0300",
       "minecraft:vindicator": "2020-04-23 19:30:25 -0300",
       "minecraft:magma_cube": "2020-04-25 18:14:01 -0300",
       "minecraft:spider": "2020-04-04 22:37:36 -0300",
       "minecraft:creeper": "2020-04-19 00:48:33 -0300",
       "minecraft:evoker": "2020-04-23 19:33:16 -0300",
+      "minecraft:slime": "2020-04-28 22:26:14 -0300",
       "minecraft:phantom": "2020-04-19 02:29:50 -0300",
       "minecraft:zombified_piglin": "2020-04-25 22:18:44 -0300",
       "minecraft:witch": "2020-04-23 19:36:33 -0300",
@@ -1349,6 +1357,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2020-04-04 22:27:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-04-28 22:26:20 -0300"
     },
     "done": true
   },
@@ -2064,6 +2078,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-04-29 02:15:34 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2020-04-24 09:48:52 -0300"
@@ -2416,6 +2436,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-04-21 19:50:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-04-28 22:26:20 -0300"
     },
     "done": true
   },
@@ -2779,6 +2805,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-04-28 22:26:20 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/warped_sign": {
     "criteria": {
       "has_warped_planks": "2020-04-19 00:27:19 -0300"
@@ -2800,6 +2832,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2020-04-25 18:12:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-04-29 02:15:34 -0300"
     },
     "done": true
   },
