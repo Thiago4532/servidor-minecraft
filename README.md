@@ -1,2 +1,2 @@
 # Servidor de Minecraft
-Versão: 20w17a
+Versão: 20w18a
